@@ -1,0 +1,93 @@
+html {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #333333;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body,iframe,frameset, frame, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, input {
+    margin: 0;
+    padding: 0;
+}
+body, button, input, select, textarea {
+    font: 12px/1.5 "微软雅黑","Microsoft Yahei","Hiragino Sans GB",tahoma,arial,"宋体";
+}
+input, select, textarea {
+    font-size: 100%;
+	outline: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+fieldset, img {
+    border: 0 none;
+}
+a:focus{outline:none;}
+iframe {
+    display: block;
+}
+ol, ul {
+    list-style: none outside none;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+    font-weight: 500;
+}
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 16px;
+}
+h3, h4, h5, h6 {
+    font-size: 14px;
+}
+img{
+    border: 0;
+}
+a{
+    text-decoration: none;
+}
+.clear{
+    clear: both;
+}
+.float-left{
+    display: inline;
+    float: left;
+}
+.float-right{
+    display: inline;
+    float: right;
+}
+.inline-block{
+    display: inline-block;
+}
+
+.position-re{
+    position: relative;
+}
+.text-center{
+    text-align: center;
+}
+.show-center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-right{
+    text-align: right;
+}
+.block{
+    display: block;
+}
+.inline{
+    display: inline;
+}
+.display-none {
+    display: none;
+}
+.widthMiddle {
+	width:1200px;
+}

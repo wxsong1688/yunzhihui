@@ -1,0 +1,101 @@
+.findPwd-middle {
+    width: 100%;
+    border-top: 1px solid #ddd;
+}
+
+.findPwd-middle-section1 {
+    background: rgba(0, 0, 0, 0) url("../images/big.png") no-repeat scroll 0 0;
+    height: 72px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 10px 50px;
+    width: 163px;
+}
+.findPwd-middle-section2 {
+    margin: 10px 110px;
+    padding: 30px 0;
+    border-top: 1px solid #ddd;
+}
+.findPwd-middle-sec {
+    width: 1200px;
+    padding: 50px 0;
+}
+.findPwd-title {
+    color: #6c6c6c;
+    font-size: 28px;
+}
+.findPwd-sec2-part {
+    width: 687px;
+    margin-top: 10px;
+}
+.findPwd-sec2-part>p {
+    width: 229px;
+    height: 36px;
+    background: url("../images/findPwd-0.png") no-repeat;
+    font-size: 16px;
+    line-height: 36px;
+    color: #3579cd;
+}
+.faccurent {
+    background: url("../images/findPwd-1.png") no-repeat!important;
+    color: #ffffff!important;
+}
+.findPwd-sec2-part1 {
+    width: 687px;
+    font-family: "新宋体";
+    font-size: 14px;
+    color: #5c5c5c;
+    margin: 65px auto 0;
+}
+.findPwd-sec2-part1 label{
+    width: 198px;
+}
+.findPwd-account>input, .findPwd-yzm>input {
+    font-family: "新宋体";
+    width: 300px;
+    height: 32px;
+    line-height: 32px;
+    border: 1px solid #ddd;
+    color: #bbb;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.findPwd-yzm>input {
+    width: 112px;
+}
+.findPwd-top {
+    margin: 25px auto;
+}
+.yzm-get {
+    background-color: #55A5EA;
+    font-size: 12px;
+    color: #ffffff;
+    padding: 5px 10px;
+    border: 1px solid #BAD7FF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-left: 10px;
+}
+.findPwdNext {
+    background-color: #4694DC;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 6px 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+.findPwd-sm {
+    font-family: 新宋体;
+    font-size: 12px;
+    color: #e30045;
+    margin-left: 198px;
+    margin-top: 10px;
+}
+.disabled-btn {
+    background-color: #fafbfc !important;
+    border: 1px solid #E7E8E8 !important;
+    color: #ccc;
+}

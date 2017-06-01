@@ -1,0 +1,181 @@
+#assignbid {
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 28px;
+}
+.bid-middle-section {
+    background-color: #fff;
+    border: 1px solid #E5E5E5;
+    padding: 65px;
+}
+.text-blue {
+    font-size: 18px;
+    color: #2ea7e0;
+}
+.blue-line {
+    background-color: #C0E4F6;
+    height: 1px;
+    margin-top: 14px;
+}
+.text-style1 {
+    font-size: 13px;
+    color: #ff6803;
+    margin-top: 6px;
+}
+.text-style1 a {
+    margin-left: 10px;
+    color: #d80202;
+    text-decoration: underline;
+}
+.text-style2 {
+    font-size: 16px;
+    color: #555555;
+}
+.text-style3 {
+    font-size: 23px;
+    color: #06bd5c;
+}
+.sicon {
+    padding-right: 6px;
+    padding-top: 13px;
+}
+.bid-information {
+    padding-left: 28px;
+    width: 48%;
+}
+.bid-infor-part1>ul>li {
+    margin-right: 10px;
+    width: 48%;
+}
+
+.bid-pro-detail {
+    margin-top: 50px;
+}
+.bid-infor-part1 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+.bid-infor-part2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bid-infor-part3 {
+    background-color: #0099cc;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 6px 10px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.bid-tz {
+    width: 360px;
+    height: 263px;
+    background: url("../images/crebg.png") no-repeat;
+    padding-top: 25px;
+}
+.bid-tz-80 {
+    width: 350px;
+    height: 263px;
+    padding-top: 25px;
+}
+.text-style4 {
+    font-size: 17px;
+    color: #FFFFFF;
+}
+.text-input {
+    font-size: 22px;
+    color: #FFFFFF;
+}
+#bid {
+    padding-left: 37px;
+}
+.disabled-input {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    color: #555;
+    font-size: 16px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 100px;
+    z-index: 1000;
+}
+.bid-cz {
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    padding: 2px 5px;
+    font-size: 14px;
+    color: #0781ba;
+    margin-left: 5px;
+}
+
+.bid-tz-part1 {
+    margin-top: 0px;
+    margin-bottom: 10px
+}
+.confirm-tz {
+    background-color: #ffffff;
+    border: medium none;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    color: #0781ba;
+    font-size: 16px;
+    margin: -6px 90px;
+    padding: 2px 10px;
+}
+
+.bid-sec2-infor,.bid-sec3-info,.bid-sec4-infor {
+    padding: 25px 90px;
+}
+.bid-sec2-infor>ul>li {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 25%;
+}
+.bid-sec3-info>ul>li {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.check-xt {
+    padding-top: 2px;
+    padding-right: 10px;
+}
+.invest-li {
+    width: 33%;
+}
+.bid-sec4-infor ul {
+    width: 100%;
+}
+.bid-sec4-infor>ul>li {
+    width: 100%;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.bid-sec3-info > ul > li:last-child {
+    border-bottom: none;
+}
+.text-style6 {
+     font-size: 14px;
+    color: #777;
+}
+.return-tb {
+    background-color: #3eaee2;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 4px 25px;
+}
+.renbid {
+    left: -186px;
+    position: absolute;
+    top: 103px;
+
+}

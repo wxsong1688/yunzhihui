@@ -1,0 +1,74 @@
+/**
+ * Created by Administrator on 2015/10/23.
+ */
+function popBox(bodyId,txt1,txt2,txt3,txt4,txt5,width,href1,href2){
+	var thisBody = document.getElementById(bodyId);
+	var para1 = document.createElement("div");
+	para1.setAttribute("class", "show-center modal");
+	//<p class="register-success text-center"><span></span>恭喜您注册成功</p>
+	var para2 = document.createElement("div");
+	var para3 = document.createElement("div");
+	var para4 = document.createElement("div");
+	var para5 = document.createElement("div");
+	var para6 = document.createElement("a");
+	var para7 = document.createElement("p");
+	var para8 = document.createElement("p");
+	var para9 = document.createElement("span");
+	var para10 = document.createElement("a");
+	var para11 = document.createElement("span");
+	var para12 = document.createElement("a");
+	para2.setAttribute("class", "cloud-zz show-cente");
+	para3.setAttribute("class", "show-center imsec2-ul-inner");
+	para4.setAttribute("class", "modal-section1 text-center");
+	para5.setAttribute("class", "text-right");
+	para6.setAttribute("class", "modal-close1");
+	para6.setAttribute("onclick", "$('.modal').hide();$('.imsec2-ul-out').hide();");
+	para7.setAttribute("class", "register-success");
+	para8.setAttribute("class", "register-suc-text");
+	para10.setAttribute("class", "btn0 inline-block");
+	para10.setAttribute("href", href1);
+	para12.setAttribute("class", "btn0 btn-bgc inline-block");
+	para12.setAttribute("href", href2);
+	var node=document.createTextNode("×");
+	para6.appendChild(node);
+	var node1=document.createTextNode(txt1);
+	para7.appendChild(para11);
+	para7.appendChild(node1);
+	var node2=document.createTextNode(txt2);
+	para8.appendChild(node2);
+	var node3=document.createTextNode(txt3);
+	para9.appendChild(node3);
+	var node4=document.createTextNode(txt4);
+	para10.appendChild(node4);
+	var node5=document.createTextNode(txt5);
+	para5.appendChild(para6);
+	para8.appendChild(para9);
+	para4.appendChild(para5);
+	para4.appendChild(para7);
+	para4.appendChild(para8);
+	para12.appendChild(node5);
+	para3.appendChild(para4);
+	para2.appendChild(para3);
+	para1.appendChild(para2);
+	shadeOut(bodyId,thisBody,"imsec2-ul-out");
+	thisBody.appendChild(para1);
+	para2.style.width=width;
+	if(txt4.trim() != ""){
+		para4.appendChild(para10);
+	}
+	if(txt5.trim() != ""){
+		para4.appendChild(para12);
+	}
+}
+//遮罩底层
+function shadeOut(bodyId,thisBody,sha){
+	var para = document.createElement("div");
+	para.setAttribute("class", sha);
+	thisBody.appendChild(para);
+	getHeight(bodyId,sha);
+}
+
+function getHeight(bodyId,ss){
+	var he = $("#"+bodyId).height();
+	$("."+ss).height(he);
+}

@@ -1,0 +1,203 @@
+#assignCreditor {
+    background-color: #f7f7f7;
+    padding-bottom: 50px;
+    padding-top: 28px;
+}
+.pro-detail a{
+    text-decoration: none;
+    color: #ff6600 !important;
+}
+.creditor-middle-section {
+    width: 1200px;
+    background-color: #fff;
+    border: 1px solid #E5E5E5;
+}
+
+.float-left {
+    display: inline;
+    float: left;
+}
+
+.creditor-section1, .bid-section2, .bid-section3 {
+    margin: 65px;
+}
+.text-blue {
+    font-size: 20px;
+    color: #2ea7e0;
+}
+.blue-line {
+    background-color: #C0E4F6;
+    height: 1px;
+    margin-top: 14px;
+}
+.creditor-icon > img {
+    margin-top: 5px;
+}
+.font-sty1 {
+    font-size: 17px;
+    color: #555555;
+}
+.font-sty2 {
+    font-size: 24px;
+    color: #06bd5c;
+}
+.creditor-content-section1 {
+    margin-top: 46px;
+    padding-left: 106px;
+    width: 53%;
+}
+.cre-sec1-part1>ul {
+
+}
+.cre-sec1-part1>ul>li {
+    width: 47%;
+    margin-top: 7px;
+}
+.cre-state {
+    background-color: #2ea7e0;
+    padding: 4px 10px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+.font-sty3 {
+    font-size: 16px;
+    color: #ffffff;
+}
+.csp2-span > img {
+    margin-left: 8px;
+    margin-top: 4px;
+}
+.cre-sec1-part2 {
+    border-top: 1px solid #d8d8d8;
+    margin-top: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.cre-sec1-part3 a {
+    background-color: #2ea7e0;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 5px 30px;
+}
+.cre-sec1-part3 {
+    margin-top: 30px;
+}
+
+.cre-tb {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: url("../images/creditorBg.png") no-repeat;
+}
+.cre-top-left {
+    background-position: 0 0;
+    left: -7px;
+    top: -7px;
+}
+.cre-top-right {
+    background-position: -11px 0;
+    right: -8px;
+    top: -7px;
+}
+.cre-bot-left {
+    background-position: 0 -10px;
+    bottom: -7px;
+    left: -7px;
+}
+.cre-bot-right {
+    background-position: -11px -10px;
+    bottom: -7px;
+    right: -8px;
+}
+.font-sty4 {
+    font-size: 16px;
+    color: #555555;
+}
+.cre-sec2-part1 {
+    position: relative;
+    background-color: #EDF8FA;
+    border: 1px solid #9DCBC0;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    padding: 30px;
+}
+.cre-sec2-part1>p {
+    margin-top: 5px;
+}
+.font-sty5 {
+    font-size: 16px;
+    color: #2ea7e0;
+}
+.buy-creditor {
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #4DB3E4;
+    padding: 5px 20px;
+    margin-top: 10px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+.creditor-content-section2 {
+    margin-top: 18px;
+}
+.bid-section2 {
+    margin-top: 30px;
+}
+/*债权转让完成*/
+.cre-bg0 {
+    background-color: #fdfde5;
+    border: 1px solid #E9DFA2;
+    font-size: 17px;
+    color: #555555;
+    padding: 2px 15px;
+}
+.creditor-con-p {
+    margin: 35px auto;
+}
+.creditor-con-part>ul {
+    width: 100%;
+}
+.creditor-con-part>ul>li {
+    margin: 16px 10px;
+    font-size: 15px;
+    text-align: center;
+}
+.creditor-con-part>ul>li>label {
+    color: #555555;
+    display: inline-block;
+    text-align: left;
+    width: 21%;
+}
+.creditor-con-part>ul>li>input {
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    padding: 2px 5px;
+}
+.creditor-con-part {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 400px;
+}
+.color-green {
+    color: #5e940c;
+}
+.color-red {
+    color: #dc0101;
+}
+.creditor-btn {
+    background-color: #2ea7e0;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px;
+    padding: 5px 30px;
+}

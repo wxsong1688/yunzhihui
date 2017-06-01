@@ -1,0 +1,52 @@
+
+.changePwd-content {
+    margin-left: 30px;
+    margin-right: 94px;
+    margin-top: 30px;
+}
+.changePwd-con-title {
+    background-color: #f7f7f7;
+    color: #555;
+    font-size: 14px;
+    padding: 10px;
+}
+.changePwd-part {
+    font-size: 13px;
+    font-family: "宋体";
+    color: #636361;
+    margin-left: 40px;
+    background: url("../images/cPwd.png") no-repeat 0 0;
+    padding-left: 200px;
+}
+.forget-pwd {
+    color: #007396;
+    margin-left: 10px;
+}
+.old-pwd {
+    margin-top: 30px;
+}
+.old-pwd input {
+    width: 242px;
+    height: 26px;
+}
+.pwd-text-top {
+    margin-top: 5px;
+    width:100px;
+    text-align: left;
+}
+.pwd-right {
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.changePwd-button {
+    background-color: #01a8dc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    margin-left: 90px;
+    margin-top: 24px;
+    padding: 6px 20px;
+}

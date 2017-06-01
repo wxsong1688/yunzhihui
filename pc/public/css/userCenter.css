@@ -1,0 +1,21 @@
+.user-all {
+    background-color: #F7F7F7;
+    padding-top: 30px;
+	   
+}
+.usercenter-title {
+    background: url("../images/borderbg.png") repeat-x;
+    text-indent: 2em;
+    color: #909090;
+    font-size: 14px;
+    height: 63px;
+    line-height: 60px;
+}
+.user-right-height {
+    min-height: 631px;
+}
+.user-section {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-left: none;
+}

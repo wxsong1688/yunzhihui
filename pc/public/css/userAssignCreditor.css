@@ -1,0 +1,65 @@
+.userAssignCreditor-content {
+    background-color: #fff;
+    padding: 30px 40px;
+}
+.userCreditoe-con-section1 {
+    border-left: 1px solid #ddd;
+}
+.userCreditoe-con-section1>ul {
+    width: 100%;
+}
+.userCreditoe-con-section1>ul>li {
+    width: 24.88%;
+    border: 1px solid #ddd;
+    border-left: none;
+    font-size: 17px;
+    /*color: #676767;*/
+    padding: 8px 0;
+    background-color: #fcfcfc;
+    cursor: pointer;
+}
+.userCreditor-con-sec10 {
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 20px;
+}
+.ucaccrent {
+    background-color: #ffffff!important;
+    border-bottom: none!important;
+    border-top: 2px solid #0098E1!important;
+    height: 24px;
+    color:#0591bc;
+}
+.userCreditor-table {
+    border-bottom: 1px solid #ddd !important;
+}
+.userCreditor-table .even{
+    background-color: #efefef;
+}
+.userCreditor-table tr > th {
+    color: #555;
+    font-size: 13px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-align: center;
+}
+
+.userCreditor-table tr > td {
+    padding: 15px 0;
+    text-align: center;
+}
+.userCreditor-table tr > td a {
+    text-decoration: underline;
+}
+.userCreditor-table .font-style3 {
+    color: #4b4b4b;
+    font-size: 13px;
+}
+.userCreditor-table .font-style4 {
+    color: #ce0044;
+    font-size: 13px;
+}
+.userCreditor-table .font-style5{
+    color: #64a502;
+    font-size: 13px;
+}

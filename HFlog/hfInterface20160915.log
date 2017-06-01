@@ -1,0 +1,303 @@
+
+2016-09-15 00:04:47
+[repayment]:{"Version":"20","CmdId":"Repayment","MerCustId":"6000060001873824","OrdId":"147386908727635","OrdDate":"20160915","OutCustId":"6000060002809527","SubOrdId":"147274762099098","SubOrdDate":"20160902","OutAcctId":"","TransAmt":"180.56","Fee":"90.28","InCustId":"6000060002809750","InAcctId":"","DivDetails":"[{\"DivCustId\":\"6000060001873824\",\"DivAcctId\":\"MDT000001\",\"DivAmt\":\"90.28\"}]","FeeObjFlag":"O","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"1\",\"in_user_balance\":1058925.53}","ReqExt":"{\"ProId\":\"20902218\"}","ChkValue":"0931CCBE5CE2D0F7A14C75607765B7EB56265E16F512FF3E4D4908D3760A91DF89C2536DD441580C2CC815A8C15AE0017F15038E2A5449F53E1CD4A64B11BB72EC4999566326B6D31A0858604FFE573B281B803CB17037C78CDA364D34EFB9C8360C6B8C8BF33FDC5517AC8A60E5D8A80162786461B3FB27BC56350EA471E6BB"}
+[checkValue]:0931CCBE5CE2D0F7A14C75607765B7EB56265E16F512FF3E4D4908D3760A91DF89C2536DD441580C2CC815A8C15AE0017F15038E2A5449F53E1CD4A64B11BB72EC4999566326B6D31A0858604FFE573B281B803CB17037C78CDA364D34EFB9C8360C6B8C8BF33FDC5517AC8A60E5D8A80162786461B3FB27BC56350EA471E6BB
+2016-09-15 00:04:48
+[repayment response]: {"CmdId":"Repayment","RespCode":"000","RespDesc":"\u6210\u529f","ChkValue":"5F9BF14BEAB1827AF72A1D2061B89EE15C710BB07A952CF5B1CC6E4FC65EDC36EE5E41B3071B0FC34552DC7095D95D6FAB03AB04D6558341828AB275D04F9A458E23AA08341C15B08EFD9F801D61BDA67973D71F9EE14EA5E35F8D6ED6B961BB624366E7534664C9EFEF7A9AD7D6D963B36572D158BDEA195F4148E79E74431B","Version":"","MerCustId":"6000060001873824","OrdId":"147386908727635","OrdDate":"20160915","OutCustId":"6000060002809527","SubOrdId":"147274762099098","SubOrdDate":"20160902","OutAcctId":"MDT000001","TransAmt":"180.56","Fee":"90.28","InCustId":"6000060002809750","InAcctId":"MDT000001","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"1\",\"in_user_balance\":1058925.53}","FeeObjFlag":"O","RespExt":"{\"ProId\":\"20902218\"}"}
+
+2016-09-15 00:04:48
+[repayment]:{"Version":"20","CmdId":"Repayment","MerCustId":"6000060001873824","OrdId":"147386908823627","OrdDate":"20160915","OutCustId":"6000060002809527","SubOrdId":"147274768363675","SubOrdDate":"20160902","OutAcctId":"","TransAmt":"72.22","Fee":"36.11","InCustId":"6000060002809876","InAcctId":"","DivDetails":"[{\"DivCustId\":\"6000060001873824\",\"DivAcctId\":\"MDT000001\",\"DivAmt\":\"36.11\"}]","FeeObjFlag":"O","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"2\",\"in_user_balance\":1965864.72}","ReqExt":"{\"ProId\":\"20902218\"}","ChkValue":"5C2FE865ACD9BA36F533FD75DB2B443D591B68CCE53A74128DE3736D16A2AB19B94668558D7408DFC015893DA36CFD5631DF1511F3DE5F351A3D7CFC7E31F74267CBC710E5694C3B5DB8BEFD95C6D4E14B012D6FE4F10F1311A6C0038A14FF371147646315596F25F6457FFCD9F2105DD4AF037CBE7272F642C28D7ECDC3260C"}
+[checkValue]:5C2FE865ACD9BA36F533FD75DB2B443D591B68CCE53A74128DE3736D16A2AB19B94668558D7408DFC015893DA36CFD5631DF1511F3DE5F351A3D7CFC7E31F74267CBC710E5694C3B5DB8BEFD95C6D4E14B012D6FE4F10F1311A6C0038A14FF371147646315596F25F6457FFCD9F2105DD4AF037CBE7272F642C28D7ECDC3260C
+2016-09-15 00:04:49
+[repayment response]: {"CmdId":"Repayment","RespCode":"000","RespDesc":"\u6210\u529f","ChkValue":"5BEAD7DE1CF8A52723C801F853502CA0D6C723767455D288CBA990D8FEF7A3597D8558ADFC5923DFDF268A53603010744370AD3A5E27D598BD237C589C456A415F88524BA32D3FF7A709E7994CD070D0F41BF3006951ED33CD0AA2844252EADC5A929FC512D8AA82B92F7EE86F6A8589703FB5435B682B8AC4A7F83791895D05","Version":"","MerCustId":"6000060001873824","OrdId":"147386908823627","OrdDate":"20160915","OutCustId":"6000060002809527","SubOrdId":"147274768363675","SubOrdDate":"20160902","OutAcctId":"MDT000001","TransAmt":"72.22","Fee":"36.11","InCustId":"6000060002809876","InAcctId":"MDT000001","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"2\",\"in_user_balance\":1965864.72}","FeeObjFlag":"O","RespExt":"{\"ProId\":\"20902218\"}"}
+
+2016-09-15 00:04:49
+[repayment]:{"Version":"20","CmdId":"Repayment","MerCustId":"6000060001873824","OrdId":"147386908992707","OrdDate":"20160915","OutCustId":"6000060002809527","SubOrdId":"147274774566660","SubOrdDate":"20160902","OutAcctId":"","TransAmt":"108.33","Fee":"54.17","InCustId":"6000060002810230","InAcctId":"","DivDetails":"[{\"DivCustId\":\"6000060001873824\",\"DivAcctId\":\"MDT000001\",\"DivAmt\":\"54.17\"}]","FeeObjFlag":"O","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"3\",\"in_user_balance\":1486627.45}","ReqExt":"{\"ProId\":\"20902218\"}","ChkValue":"55295D1DE95758FA9139D4518DF2A14759C4C05198F84A088CDE47445662487526878F6559DB98143809B951955C5C33DA7F779C6DD0B15CE2307E943D2D8FFDF13C44A564640D0A8F9A9F227C8C8831CE9BBDBBBF35437CFA47D365160061C09CF1B9C235FA08F0691AD1C1E2095B21D0311BB1CCB2204305BE1C19D61067DE"}
+[checkValue]:55295D1DE95758FA9139D4518DF2A14759C4C05198F84A088CDE47445662487526878F6559DB98143809B951955C5C33DA7F779C6DD0B15CE2307E943D2D8FFDF13C44A564640D0A8F9A9F227C8C8831CE9BBDBBBF35437CFA47D365160061C09CF1B9C235FA08F0691AD1C1E2095B21D0311BB1CCB2204305BE1C19D61067DE
+2016-09-15 00:04:49
+[repayment response]: {"CmdId":"Repayment","RespCode":"000","RespDesc":"\u6210\u529f","ChkValue":"F1EA1EE66D2766AD81B0066F0C8BEE192AA90F8C848A79FBB61A2FF7342321623568315045A50AF13A0444E8FF173FF6F286C8DECA31FCE6A9619910277B085B171EDD9C6B36686A7008475AA8066F969F398313C6BC759469C24D152779E53F621B8563A05B1B6BE7A4A54D7879A72D5EE7528E7DC1F521FBF871B94054C725","Version":"","MerCustId":"6000060001873824","OrdId":"147386908992707","OrdDate":"20160915","OutCustId":"6000060002809527","SubOrdId":"147274774566660","SubOrdDate":"20160902","OutAcctId":"MDT000001","TransAmt":"108.33","Fee":"54.17","InCustId":"6000060002810230","InAcctId":"MDT000001","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"3\",\"in_user_balance\":1486627.45}","FeeObjFlag":"O","RespExt":"{\"ProId\":\"20902218\"}"}
+
+2016-09-15 00:04:50
+[repayment]:{"Version":"20","CmdId":"Repayment","MerCustId":"6000060001873824","OrdId":"147386909090807","OrdDate":"20160915","OutCustId":"6000060002851105","SubOrdId":"147274804711986","SubOrdDate":"20160902","OutAcctId":"","TransAmt":"541.67","Fee":"180.56","InCustId":"6000060002809750","InAcctId":"","DivDetails":"[{\"DivCustId\":\"6000060001873824\",\"DivAcctId\":\"MDT000001\",\"DivAmt\":\"180.56\"}]","FeeObjFlag":"O","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"4\",\"in_user_balance\":1059106.09}","ReqExt":"{\"ProId\":\"20902120\"}","ChkValue":"BD040C52FD950ACB113BE3DDE36777DE5DCF0D6EF18A9CF6BB350FCFA7478B5C8EFCE5C8CFB838A8612D8FF110F45685BFA32D2EAC6BC4C15E52C2A9C414F6A326530620040C4C6AAA4F269DF33018DBBA61158F6D8B5B84A51582BD2FDC059312EF6A3376D1799A1B6D862F5C944F37A6689982B25514D0C0B587FFDB498217"}
+[checkValue]:BD040C52FD950ACB113BE3DDE36777DE5DCF0D6EF18A9CF6BB350FCFA7478B5C8EFCE5C8CFB838A8612D8FF110F45685BFA32D2EAC6BC4C15E52C2A9C414F6A326530620040C4C6AAA4F269DF33018DBBA61158F6D8B5B84A51582BD2FDC059312EF6A3376D1799A1B6D862F5C944F37A6689982B25514D0C0B587FFDB498217
+2016-09-15 00:04:50
+[repayment response]: {"CmdId":"Repayment","RespCode":"000","RespDesc":"\u6210\u529f","ChkValue":"DCB101B3C0ADF98C3466976F0A957575D520CAC43FE4BCEC03D90A2176C5D947741B0459AD75CD3EC67573FFD9D1D87CE95FD7FC898915C8110EB55DDF917A47A023F13ED1C0580BCAD04AC3EBDED3D353A3296E404214FA49E2FBC2ADA42DBA3E1C4924BEAC8FA1DE550EB3357BB416C06CAABBCA30A3A8A6844218A7DBC50F","Version":"","MerCustId":"6000060001873824","OrdId":"147386909090807","OrdDate":"20160915","OutCustId":"6000060002851105","SubOrdId":"147274804711986","SubOrdDate":"20160902","OutAcctId":"MDT000001","TransAmt":"541.67","Fee":"180.56","InCustId":"6000060002809750","InAcctId":"MDT000001","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"4\",\"in_user_balance\":1059106.09}","FeeObjFlag":"O","RespExt":"{\"ProId\":\"20902120\"}"}
+
+2016-09-15 00:04:50
+[repayment]:{"Version":"20","CmdId":"Repayment","MerCustId":"6000060001873824","OrdId":"147386909088727","OrdDate":"20160915","OutCustId":"6000060002851105","SubOrdId":"147274814196063","SubOrdDate":"20160902","OutAcctId":"","TransAmt":"541.67","Fee":"180.56","InCustId":"6000060002810249","InAcctId":"","DivDetails":"[{\"DivCustId\":\"6000060001873824\",\"DivAcctId\":\"MDT000001\",\"DivAmt\":\"180.56\"}]","FeeObjFlag":"O","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"5\",\"in_user_balance\":490000}","ReqExt":"{\"ProId\":\"20902120\"}","ChkValue":"5962B89C5C90475E7DFE801782BB6BCC57125B50D4A6A58296891B57823CBF031F9BE9A80F773C9912E6F0A95D94AFF72C6B26B106286F5ED8E12196345859103BD79DC53DBC0238CB9EABE654265E199A2E4529ACDE7B55630DDCBD6C4780CA3D72048D80D33BE4FCEF0AC529C3BAC3F9B694D13C27400827EA7404E1392C5B"}
+[checkValue]:5962B89C5C90475E7DFE801782BB6BCC57125B50D4A6A58296891B57823CBF031F9BE9A80F773C9912E6F0A95D94AFF72C6B26B106286F5ED8E12196345859103BD79DC53DBC0238CB9EABE654265E199A2E4529ACDE7B55630DDCBD6C4780CA3D72048D80D33BE4FCEF0AC529C3BAC3F9B694D13C27400827EA7404E1392C5B
+2016-09-15 00:04:51
+[repayment response]: {"CmdId":"Repayment","RespCode":"000","RespDesc":"\u6210\u529f","ChkValue":"607C673A6400A15CEAE2B7058EEA77B3FAA99769D5718B1699F66085A22E04C4C1BEC0F01597CF3074F072597FE843575101A910B6058DC9D5E658B0AAC5EA35CA01C3701CDB7748911AA9F8F9FC65D9948E0869804F0CFF1E060EC15B40A4E2B804AA89A1CC27D7D967B611A8CBDB553ECF6F6F3BCB85D044117983265536A8","Version":"","MerCustId":"6000060001873824","OrdId":"147386909088727","OrdDate":"20160915","OutCustId":"6000060002851105","SubOrdId":"147274814196063","SubOrdDate":"20160902","OutAcctId":"MDT000001","TransAmt":"541.67","Fee":"180.56","InCustId":"6000060002810249","InAcctId":"MDT000001","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"5\",\"in_user_balance\":490000}","FeeObjFlag":"O","RespExt":"{\"ProId\":\"20902120\"}"}
+
+2016-09-15 00:04:51
+[repayment]:{"Version":"20","CmdId":"Repayment","MerCustId":"6000060001873824","OrdId":"147386909112241","OrdDate":"20160915","OutCustId":"6000060002851105","SubOrdId":"147274815962668","SubOrdDate":"20160902","OutAcctId":"","TransAmt":"541.67","Fee":"180.56","InCustId":"6000060002810230","InAcctId":"","DivDetails":"[{\"DivCustId\":\"6000060001873824\",\"DivAcctId\":\"MDT000001\",\"DivAmt\":\"180.56\"}]","FeeObjFlag":"O","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"6\",\"in_user_balance\":1486735.78}","ReqExt":"{\"ProId\":\"20902120\"}","ChkValue":"DCD121B50788814982C180CCABF42B0018D9BA5A44918063DB91DA4A16842C58CBDA169E373791173D962A921E8266152B1B79C23A6C90A35C7634A587A58F5DCC943F28F120B7F7F915ADEA7A757A51CF23A914C0DCD23F630728E5288F88EEA91CF1C8660B7685133E8AD94E6A387C1F9EFE77D3E76B8343DCA05DE312DCDC"}
+[checkValue]:DCD121B50788814982C180CCABF42B0018D9BA5A44918063DB91DA4A16842C58CBDA169E373791173D962A921E8266152B1B79C23A6C90A35C7634A587A58F5DCC943F28F120B7F7F915ADEA7A757A51CF23A914C0DCD23F630728E5288F88EEA91CF1C8660B7685133E8AD94E6A387C1F9EFE77D3E76B8343DCA05DE312DCDC
+2016-09-15 00:04:51
+[repayment response]: {"CmdId":"Repayment","RespCode":"000","RespDesc":"\u6210\u529f","ChkValue":"13FDA86C539C6329C111F3D0F32FA4D4AB958B221D693214D2AC45FA8639F51F883911C4346FF044FB4E45CC15006FCBEDC71364E400F3BF9CDF32A26008386FA787592A4B628080130E9CAE7D12C4B3C187B07D8ECDEC93CC80E8FBE936141B44FC46545EE204F6980B68EBFC105FB567ED87698CA16239005C0D40AC9A12D8","Version":"","MerCustId":"6000060001873824","OrdId":"147386909112241","OrdDate":"20160915","OutCustId":"6000060002851105","SubOrdId":"147274815962668","SubOrdDate":"20160902","OutAcctId":"MDT000001","TransAmt":"541.67","Fee":"180.56","InCustId":"6000060002810230","InAcctId":"MDT000001","BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","MerPriv":"{\"settle_id\":\"6\",\"in_user_balance\":1486735.78}","FeeObjFlag":"O","RespExt":"{\"ProId\":\"20902120\"}"}
+
+2016-09-15 00:04:52
+[apiBackAutoRepayment]:{"BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","ChkValue":"5BEAD7DE1CF8A52723C801F853502CA0D6C723767455D288CBA990D8FEF7A3597D8558ADFC5923DFDF268A53603010744370AD3A5E27D598BD237C589C456A415F88524BA32D3FF7A709E7994CD070D0F41BF3006951ED33CD0AA2844252EADC5A929FC512D8AA82B92F7EE86F6A8589703FB5435B682B8AC4A7F83791895D05","CmdId":"Repayment","Fee":"36.11","FeeObjFlag":"O","InAcctId":"MDT000001","InCustId":"6000060002809876","MerCustId":"6000060001873824","MerPriv":"{\"settle_id\":\"2\",\"in_user_balance\":1965864.72}","OrdDate":"20160915","OrdId":"147386908823627","OutAcctId":"MDT000001","OutCustId":"6000060002809527","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"{\"ProId\":\"20902218\"}","SubOrdDate":"20160902","SubOrdId":"147274768363675","TransAmt":"72.22"}
+
+2016-09-15 00:04:52
+[apiBackAutoRepayment]:{"BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","ChkValue":"5F9BF14BEAB1827AF72A1D2061B89EE15C710BB07A952CF5B1CC6E4FC65EDC36EE5E41B3071B0FC34552DC7095D95D6FAB03AB04D6558341828AB275D04F9A458E23AA08341C15B08EFD9F801D61BDA67973D71F9EE14EA5E35F8D6ED6B961BB624366E7534664C9EFEF7A9AD7D6D963B36572D158BDEA195F4148E79E74431B","CmdId":"Repayment","Fee":"90.28","FeeObjFlag":"O","InAcctId":"MDT000001","InCustId":"6000060002809750","MerCustId":"6000060001873824","MerPriv":"{\"settle_id\":\"1\",\"in_user_balance\":1058925.53}","OrdDate":"20160915","OrdId":"147386908727635","OutAcctId":"MDT000001","OutCustId":"6000060002809527","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"{\"ProId\":\"20902218\"}","SubOrdDate":"20160902","SubOrdId":"147274762099098","TransAmt":"180.56"}
+
+2016-09-15 00:04:52
+[update user account] : UPDATE `yzh_user_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:04:52
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:04:52
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1059647.76', `withdrawal_cash` = '1059647.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:04:52
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1059647.76', `withdrawal_cash` = '1059647.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:04:52
+[apiBackAutoRepayment]user_account:UPDATE `yzh_user_account` SET gain_total = gain_total+180.55556
+WHERE `uid` = '19'
+
+2016-09-15 00:04:52
+[update user account] : UPDATE `yzh_user_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:04:52
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:04:53
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1965936.94', `withdrawal_cash` = '1965936.94'
+WHERE `uid` = '20'
+
+2016-09-15 00:04:53
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1965936.94', `withdrawal_cash` = '1965936.94'
+WHERE `uid` = '20'
+
+2016-09-15 00:04:53
+[apiBackAutoRepayment]user_account:UPDATE `yzh_user_account` SET gain_total = gain_total+72.22222
+WHERE `uid` = '20'
+
+2016-09-15 00:04:54
+[apiBackAutoRepayment]:{"BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","ChkValue":"F1EA1EE66D2766AD81B0066F0C8BEE192AA90F8C848A79FBB61A2FF7342321623568315045A50AF13A0444E8FF173FF6F286C8DECA31FCE6A9619910277B085B171EDD9C6B36686A7008475AA8066F969F398313C6BC759469C24D152779E53F621B8563A05B1B6BE7A4A54D7879A72D5EE7528E7DC1F521FBF871B94054C725","CmdId":"Repayment","Fee":"54.17","FeeObjFlag":"O","InAcctId":"MDT000001","InCustId":"6000060002810230","MerCustId":"6000060001873824","MerPriv":"{\"settle_id\":\"3\",\"in_user_balance\":1486627.45}","OrdDate":"20160915","OrdId":"147386908992707","OutAcctId":"MDT000001","OutCustId":"6000060002809527","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"{\"ProId\":\"20902218\"}","SubOrdDate":"20160902","SubOrdId":"147274774566660","TransAmt":"108.33"}
+
+2016-09-15 00:04:54
+[update user account] : UPDATE `yzh_user_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:04:54
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:04:54
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1487277.45', `withdrawal_cash` = '1487277.45'
+WHERE `uid` = '21'
+
+2016-09-15 00:04:54
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1487277.45', `withdrawal_cash` = '1487277.45'
+WHERE `uid` = '21'
+
+2016-09-15 00:04:54
+[apiBackAutoRepayment]user_account:UPDATE `yzh_user_account` SET gain_total = gain_total+108.33333
+WHERE `uid` = '21'
+
+2016-09-15 00:04:55
+[apiBackAutoRepayment]:{"BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","ChkValue":"DCB101B3C0ADF98C3466976F0A957575D520CAC43FE4BCEC03D90A2176C5D947741B0459AD75CD3EC67573FFD9D1D87CE95FD7FC898915C8110EB55DDF917A47A023F13ED1C0580BCAD04AC3EBDED3D353A3296E404214FA49E2FBC2ADA42DBA3E1C4924BEAC8FA1DE550EB3357BB416C06CAABBCA30A3A8A6844218A7DBC50F","CmdId":"Repayment","Fee":"180.56","FeeObjFlag":"O","InAcctId":"MDT000001","InCustId":"6000060002809750","MerCustId":"6000060001873824","MerPriv":"{\"settle_id\":\"4\",\"in_user_balance\":1059106.09}","OrdDate":"20160915","OrdId":"147386909090807","OutAcctId":"MDT000001","OutCustId":"6000060002851105","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"{\"ProId\":\"20902120\"}","SubOrdDate":"20160902","SubOrdId":"147274804711986","TransAmt":"541.67"}
+
+2016-09-15 00:04:55
+[update user account] : UPDATE `yzh_user_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:04:55
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:04:55
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1059647.76', `withdrawal_cash` = '1059647.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:04:55
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1059647.76', `withdrawal_cash` = '1059647.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:04:55
+[apiBackAutoRepayment]user_account:UPDATE `yzh_user_account` SET gain_total = gain_total+541.66667
+WHERE `uid` = '19'
+
+2016-09-15 00:04:55
+[apiBackAutoRepayment]:{"BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","ChkValue":"607C673A6400A15CEAE2B7058EEA77B3FAA99769D5718B1699F66085A22E04C4C1BEC0F01597CF3074F072597FE843575101A910B6058DC9D5E658B0AAC5EA35CA01C3701CDB7748911AA9F8F9FC65D9948E0869804F0CFF1E060EC15B40A4E2B804AA89A1CC27D7D967B611A8CBDB553ECF6F6F3BCB85D044117983265536A8","CmdId":"Repayment","Fee":"180.56","FeeObjFlag":"O","InAcctId":"MDT000001","InCustId":"6000060002810249","MerCustId":"6000060001873824","MerPriv":"{\"settle_id\":\"5\",\"in_user_balance\":490000}","OrdDate":"20160915","OrdId":"147386909088727","OutAcctId":"MDT000001","OutCustId":"6000060002851105","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"{\"ProId\":\"20902120\"}","SubOrdDate":"20160902","SubOrdId":"147274814196063","TransAmt":"541.67"}
+
+2016-09-15 00:04:56
+[update user account] : UPDATE `yzh_user_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:04:56
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:04:56
+[update user account] : UPDATE `yzh_user_account` SET `money` = '490541.67', `withdrawal_cash` = '490541.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:04:56
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '490541.67', `withdrawal_cash` = '490541.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:04:56
+[apiBackAutoRepayment]user_account:UPDATE `yzh_user_account` SET gain_total = gain_total+541.66667
+WHERE `uid` = '22'
+
+2016-09-15 00:04:56
+[apiBackAutoRepayment]:{"BgRetUrl":"http:\/\/admin.antxd.com\/Hfcenter\/apiBackAutoRepayment","ChkValue":"13FDA86C539C6329C111F3D0F32FA4D4AB958B221D693214D2AC45FA8639F51F883911C4346FF044FB4E45CC15006FCBEDC71364E400F3BF9CDF32A26008386FA787592A4B628080130E9CAE7D12C4B3C187B07D8ECDEC93CC80E8FBE936141B44FC46545EE204F6980B68EBFC105FB567ED87698CA16239005C0D40AC9A12D8","CmdId":"Repayment","Fee":"180.56","FeeObjFlag":"O","InAcctId":"MDT000001","InCustId":"6000060002810230","MerCustId":"6000060001873824","MerPriv":"{\"settle_id\":\"6\",\"in_user_balance\":1486735.78}","OrdDate":"20160915","OrdId":"147386909112241","OutAcctId":"MDT000001","OutCustId":"6000060002851105","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"{\"ProId\":\"20902120\"}","SubOrdDate":"20160902","SubOrdId":"147274815962668","TransAmt":"541.67"}
+
+2016-09-15 00:04:56
+[update user account] : UPDATE `yzh_user_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:04:56
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:04:57
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1487277.45', `withdrawal_cash` = '1487277.45'
+WHERE `uid` = '21'
+
+2016-09-15 00:04:57
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1487277.45', `withdrawal_cash` = '1487277.45'
+WHERE `uid` = '21'
+
+2016-09-15 00:04:57
+[apiBackAutoRepayment]user_account:UPDATE `yzh_user_account` SET gain_total = gain_total+541.66667
+WHERE `uid` = '21'
+
+2016-09-15 00:05:39
+[update user account] : UPDATE `yzh_user_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:05:39
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '198538.35', `withdrawal_cash` = '198538.35'
+WHERE `uid` = '16'
+
+2016-09-15 00:08:47
+[update user account] : UPDATE `yzh_user_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:08:47
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '297833.31', `withdrawal_cash` = '297833.31'
+WHERE `uid` = '27'
+
+2016-09-15 00:09:49
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1059647.76', `withdrawal_cash` = '1059647.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:09:49
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1059647.76', `withdrawal_cash` = '1059647.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:16:39
+[creditAssign]:{"Version":"10","CmdId":"CreditAssign","MerCustId":"6000060001873824","SellCustId":"6000060002809750","CreditAmt":"100000.00","CreditDealAmt":"99430.00","BidDetails":"{\"BidDetails\":[{\"BidOrdId\":\"147274804711986\",\"BidOrdDate\":\"20160902\",\"BidCreditAmt\":\"100000.00\",\"BorrowerDetails\":[{\"BorrowerCustId\":\"6000060002851105\",\"BorrowerCreditAmt\":\"100000.00\",\"PrinAmt\":\"0.00\",\"ProId\":\"20902120\"}]}]}","Fee":"0.00","DivDetails":"","BuyCustId":"6000060002810249","OrdId":"147386979911318","OrdDate":"20160915","RetUrl":"","BgRetUrl":"http:\/\/www.antxd.com\/Hfcenter\/apiBackPCredit","MerPriv":"{\"pro_id\":\"2\",\"hforder_id\":\"147274804711986\",\"credit_id\":\"1\",\"credit_to_uid\":\"22\",\"discount\":0.99433333333333}","ReqExt":"","ChkValue":"CAB83DF94EA8D7ED635C3BA69FBD0148924EEF4760DC18224AE25EEBD73A50864E27E79EB79A4891C11769A8756D678451B2AE2DA0F1DF968627B148AD2FFFF0BF078531195B3EC0A29FFFD9D97670A1AC61E294EAEB70614226C8BD32F8B3B35261C64062F306AD623F327976DF76ABAB465A2C3BE4D5367E9483B855E06EAE"}
+[checkValue]:10CreditAssign60000600018738246000060002809750100000.0099430.00{"BidDetails":[{"BidOrdId":"147274804711986","BidOrdDate":"20160902","BidCreditAmt":"100000.00","BorrowerDetails":[{"BorrowerCustId":"6000060002851105","BorrowerCreditAmt":"100000.00","PrinAmt":"0.00","ProId":"20902120"}]}]}0.00600006000281024914738697991131820160915http://www.antxd.com/Hfcenter/apiBackPCredit{"pro_id":"2","hforder_id":"147274804711986","credit_id":"1","credit_to_uid":"22","discount":0.99433333333333}
+2016-09-15 00:17:00
+[apiBackPCredit]:{"BgRetUrl":"http:\/\/www.antxd.com\/Hfcenter\/apiBackPCredit","BuyCustId":"6000060002810249","ChkValue":"E6FA29DFE8E1CFF69778212F1328711F24B0B3809E8324CF4BA7D1BD36348F4062BD32E2B1EEB2BB8A7AB12E16854DBE0B298531631D619033BEC8CC7BB968A5A00D95927038CC295AF5DD0E9A3BDF25BF48EB90DD34E9ADC04889B4130DB25D1FE203578F09CE5BD847153C888CCF2E91E2BFBA7684AECCDADC4E757C633ACF","CmdId":"CreditAssign","CreditAmt":"100000.00","CreditDealAmt":"99430.00","Fee":"0.00","MerCustId":"6000060001873824","MerPriv":"{\"pro_id\":\"2\",\"hforder_id\":\"147274804711986\",\"credit_id\":\"1\",\"credit_to_uid\":\"22\",\"discount\":0.99433333333333}","OrdDate":"20160915","OrdId":"147386979911318","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"","RetUrl":"","SellCustId":"6000060002809750"}
+
+2016-09-15 00:17:00
+更新project_user表数据:UPDATE `yzh_project_user` SET `credit_status` = 10, `credit_to_uid` = '22'
+WHERE `hforder_id` = '147274804711986'
+
+2016-09-15 00:17:00
+新增credit_record表数据:INSERT INTO `yzh_credit_record` (`pro_id`, `item_id`, `credit_id`, `from_uid`, `to_uid`, `from_amount`, `to_amount`, `discount`, `deal_time`, `hf_order_id`) VALUES ('2', '6', '1', '19', '22', '100000.00000', '99430.00', 0.99433333333333, '2016-09-15 00:17:00', '147386979911318')
+
+2016-09-15 00:17:01
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1159077.76', `withdrawal_cash` = '1159077.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:17:01
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1159077.76', `withdrawal_cash` = '1159077.76'
+WHERE `uid` = '19'
+
+2016-09-15 00:17:01
+新增债权出让人user_flow表数据:INSERT INTO `yzh_user_flow_2016` (`uid`, `type`, `amount`, `remaining_amount`, `status`, `create_time`, `comment`) VALUES ('19', 9, '99430.00', 1159077.76, 5, '2016-09-15 00:17:01', '成功出让债权(原始项目:BC20902120)')
+
+2016-09-15 00:17:01
+[update user account] : UPDATE `yzh_user_account` SET `money` = '391111.67', `withdrawal_cash` = '391111.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:17:01
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '391111.67', `withdrawal_cash` = '391111.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:17:01
+新增债权购买人user_flow表数据:INSERT INTO `yzh_user_flow_2016` (`uid`, `type`, `amount`, `remaining_amount`, `status`, `create_time`, `comment`) VALUES ('22', 10, '99430.00', 391111.67, 5, '2016-09-15 00:17:01', '成功购买债权(原始项目:BC20902120)')
+
+2016-09-15 00:20:14
+[creditAssign]:{"Version":"10","CmdId":"CreditAssign","MerCustId":"6000060001873824","SellCustId":"6000060002809876","CreditAmt":"20000.00","CreditDealAmt":"19886.00","BidDetails":"{\"BidDetails\":[{\"BidOrdId\":\"147274768363675\",\"BidOrdDate\":\"20160902\",\"BidCreditAmt\":\"20000.00\",\"BorrowerDetails\":[{\"BorrowerCustId\":\"6000060002809527\",\"BorrowerCreditAmt\":\"20000.00\",\"PrinAmt\":\"0.00\",\"ProId\":\"20902218\"}]}]}","Fee":"0.00","DivDetails":"","BuyCustId":"6000060002810249","OrdId":"147387001435937","OrdDate":"20160915","RetUrl":"","BgRetUrl":"http:\/\/www.antxd.com\/Hfcenter\/apiBackPCredit","MerPriv":"{\"pro_id\":\"1\",\"hforder_id\":\"147274768363675\",\"credit_id\":\"2\",\"credit_to_uid\":\"22\",\"discount\":0.99433333333333}","ReqExt":"","ChkValue":"D7E781B81710DBADEA8EC8E2AFD2A7FBB9FD578DCD59E541ABC33D72F76DC26C2B7064768E83D862ADC38908F9F07457974CADD70100FBC091BE0ADE8BC563CC00A08828B7B7433CCD0A720A059198C5F64A443A2AB17B853351B532AF3ABB157B33C0080021D70729FD5700F104CFDD980D8C10DD4607281357CD60C355D23F"}
+[checkValue]:10CreditAssign6000060001873824600006000280987620000.0019886.00{"BidDetails":[{"BidOrdId":"147274768363675","BidOrdDate":"20160902","BidCreditAmt":"20000.00","BorrowerDetails":[{"BorrowerCustId":"6000060002809527","BorrowerCreditAmt":"20000.00","PrinAmt":"0.00","ProId":"20902218"}]}]}0.00600006000281024914738700143593720160915http://www.antxd.com/Hfcenter/apiBackPCredit{"pro_id":"1","hforder_id":"147274768363675","credit_id":"2","credit_to_uid":"22","discount":0.99433333333333}
+2016-09-15 00:20:19
+[apiBackPCredit]:{"BgRetUrl":"http:\/\/www.antxd.com\/Hfcenter\/apiBackPCredit","BuyCustId":"6000060002810249","ChkValue":"3F0BE5C9C54EFC9E39C499CB86C9BEABF726FFEE83DA69CA2468901EC546351B07D2FD9E3403660950FEB7D8258D70D12BE6E1DE2C7263A090F3AB514F19836D50ACA133990BA060DBDCCFDE8419B08119EA3D45705651C24BC3986F1FB27882EBC7E926F2E082D47D424E69FF15E9A370A4117BD4178344E106C596709320B2","CmdId":"CreditAssign","CreditAmt":"20000.00","CreditDealAmt":"19886.00","Fee":"0.00","MerCustId":"6000060001873824","MerPriv":"{\"pro_id\":\"1\",\"hforder_id\":\"147274768363675\",\"credit_id\":\"2\",\"credit_to_uid\":\"22\",\"discount\":0.99433333333333}","OrdDate":"20160915","OrdId":"147387001435937","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"","RetUrl":"","SellCustId":"6000060002809876"}
+
+2016-09-15 00:20:19
+更新project_user表数据:UPDATE `yzh_project_user` SET `credit_status` = 10, `credit_to_uid` = '22'
+WHERE `hforder_id` = '147274768363675'
+
+2016-09-15 00:20:19
+新增credit_record表数据:INSERT INTO `yzh_credit_record` (`pro_id`, `item_id`, `credit_id`, `from_uid`, `to_uid`, `from_amount`, `to_amount`, `discount`, `deal_time`, `hf_order_id`) VALUES ('1', '2', '2', '20', '22', '20000.00000', '19886.00', 0.99433333333333, '2016-09-15 00:20:19', '147387001435937')
+
+2016-09-15 00:20:19
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1985822.94', `withdrawal_cash` = '1985822.94'
+WHERE `uid` = '20'
+
+2016-09-15 00:20:19
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1985822.94', `withdrawal_cash` = '1985822.94'
+WHERE `uid` = '20'
+
+2016-09-15 00:20:19
+新增债权出让人user_flow表数据:INSERT INTO `yzh_user_flow_2016` (`uid`, `type`, `amount`, `remaining_amount`, `status`, `create_time`, `comment`) VALUES ('20', 9, '19886.00', 1985822.94, 5, '2016-09-15 00:20:19', '成功出让债权(原始项目:AC20902218)')
+
+2016-09-15 00:20:19
+[update user account] : UPDATE `yzh_user_account` SET `money` = '371225.67', `withdrawal_cash` = '371225.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:20:19
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '371225.67', `withdrawal_cash` = '371225.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:20:19
+新增债权购买人user_flow表数据:INSERT INTO `yzh_user_flow_2016` (`uid`, `type`, `amount`, `remaining_amount`, `status`, `create_time`, `comment`) VALUES ('22', 10, '19886.00', 371225.67, 5, '2016-09-15 00:20:19', '成功购买债权(原始项目:AC20902218)')
+
+2016-09-15 00:21:32
+[creditAssign]:{"Version":"10","CmdId":"CreditAssign","MerCustId":"6000060001873824","SellCustId":"6000060002810249","CreditAmt":"100000.00","CreditDealAmt":"99430.00","BidDetails":"{\"BidDetails\":[{\"BidOrdId\":\"147386979911318\",\"BidOrdDate\":\"20160915\",\"BidCreditAmt\":\"100000.00\",\"BorrowerDetails\":[{\"BorrowerCustId\":\"6000060002851105\",\"BorrowerCreditAmt\":\"100000.00\",\"PrinAmt\":\"0.00\",\"ProId\":\"20902120\"}]}]}","Fee":"0.00","DivDetails":"","BuyCustId":"6000060002810230","OrdId":"147387009203307","OrdDate":"20160915","RetUrl":"","BgRetUrl":"http:\/\/www.antxd.com\/Hfcenter\/apiBackPCredit","MerPriv":"{\"pro_id\":\"2\",\"hforder_id\":\"147274804711986\",\"credit_id\":\"1\",\"credit_to_uid\":\"21\",\"discount\":0.99433333333333}","ReqExt":"","ChkValue":"7AB8B5A54B69352D55AFD341F007303E5022539680844CD571693A3A5D0F568D1611DD249D5CAB307CFC2C75DD434F01A91C83AF6FF32A31C8B821A0B6E30FD2CEDC6CF12DDF894584105DAD3886DABD1575BEB9B46E742EDDC01779378A54F7F8C2942C2416B603FF369F15E686DE382010B146D360A80D0316DE07D79D83C9"}
+[checkValue]:10CreditAssign60000600018738246000060002810249100000.0099430.00{"BidDetails":[{"BidOrdId":"147386979911318","BidOrdDate":"20160915","BidCreditAmt":"100000.00","BorrowerDetails":[{"BorrowerCustId":"6000060002851105","BorrowerCreditAmt":"100000.00","PrinAmt":"0.00","ProId":"20902120"}]}]}0.00600006000281023014738700920330720160915http://www.antxd.com/Hfcenter/apiBackPCredit{"pro_id":"2","hforder_id":"147274804711986","credit_id":"1","credit_to_uid":"21","discount":0.99433333333333}
+2016-09-15 00:21:39
+[apiBackPCredit]:{"BgRetUrl":"http:\/\/www.antxd.com\/Hfcenter\/apiBackPCredit","BuyCustId":"6000060002810230","ChkValue":"D654E4C2CE4CACB825B0B1F5D956952E89C7BC24E1FB8FFE45A2EBE0B7B4154BF06EB4B90AAF8993E130B8CF83774F1D7CD36A038AEA6D094119BFBDBC022254BB691548388295FF1BAF3DF5446C44E014757F960294245E8F596E0C12656359786E134FE75D43E4D1DBE33097B1D7AE505CD378F2E21A47E32B06DB387D5234","CmdId":"CreditAssign","CreditAmt":"100000.00","CreditDealAmt":"99430.00","Fee":"0.00","MerCustId":"6000060001873824","MerPriv":"{\"pro_id\":\"2\",\"hforder_id\":\"147274804711986\",\"credit_id\":\"1\",\"credit_to_uid\":\"21\",\"discount\":0.99433333333333}","OrdDate":"20160915","OrdId":"147387009203307","RespCode":"000","RespDesc":"\u6210\u529f","RespExt":"","RetUrl":"","SellCustId":"6000060002810249"}
+
+2016-09-15 00:21:39
+更新project_user表数据:UPDATE `yzh_project_user` SET `credit_status` = 10, `credit_to_uid` = '21'
+WHERE `hforder_id` = '147274804711986'
+
+2016-09-15 00:21:39
+新增credit_record表数据:INSERT INTO `yzh_credit_record` (`pro_id`, `item_id`, `credit_id`, `from_uid`, `to_uid`, `from_amount`, `to_amount`, `discount`, `deal_time`, `hf_order_id`) VALUES ('2', '6', '1', '22', '21', '100000.00000', '99430.00', 0.99433333333333, '2016-09-15 00:21:39', '147387009203307')
+
+2016-09-15 00:21:39
+[update user account] : UPDATE `yzh_user_account` SET `money` = '470655.67', `withdrawal_cash` = '470655.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:21:39
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '470655.67', `withdrawal_cash` = '470655.67'
+WHERE `uid` = '22'
+
+2016-09-15 00:21:39
+新增债权出让人user_flow表数据:INSERT INTO `yzh_user_flow_2016` (`uid`, `type`, `amount`, `remaining_amount`, `status`, `create_time`, `comment`) VALUES ('22', 9, '99430.00', 470655.67, 5, '2016-09-15 00:21:39', '成功出让债权(原始项目:BC20902120)')
+
+2016-09-15 00:21:39
+[update user account] : UPDATE `yzh_user_account` SET `money` = '1387847.45', `withdrawal_cash` = '1387847.45'
+WHERE `uid` = '21'
+
+2016-09-15 00:21:39
+[update user account] : UPDATE `yzh_tenderee_account` SET `money` = '1387847.45', `withdrawal_cash` = '1387847.45'
+WHERE `uid` = '21'
+
+2016-09-15 00:21:39
+新增债权购买人user_flow表数据:INSERT INTO `yzh_user_flow_2016` (`uid`, `type`, `amount`, `remaining_amount`, `status`, `create_time`, `comment`) VALUES ('21', 10, '99430.00', 1387847.45, 5, '2016-09-15 00:21:39', '成功购买债权(原始项目:BC20902120)')

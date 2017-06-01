@@ -1,0 +1,212 @@
+.modal {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 500px;
+}
+.maskShade-modal {
+    width: 100%;
+    position: fixed;
+    top: 30%;
+    z-index: 1300;
+    background-color: transparent;
+}
+.imsec2-ul-out {
+    background-color: #000;
+    height: 100%;
+    left: 0;
+    filter:alpha(opacity=30);       /* IE */
+    -moz-opacity:0.3;              /* 老版Mozilla */
+    -khtml-opacity:0.3;              /* 老版Safari */
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.register-success {
+    color: #77b731;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 0 74px;
+}
+.register-success span {
+    background: rgba(0, 0, 0, 0) url("../images/pwd-right.png") no-repeat scroll 0 0;
+    display: inline-block;
+    height: 22px;
+    width: 22px;
+    position: relative;
+    bottom: -8px;
+}
+.register-suc-text {
+    color: #222;
+    font-size: 13px;
+    margin: 0 74px;
+    padding: 5px;
+    text-align: center;
+}
+.btn0 {
+    background-color: #fdc95c;
+    border: 1px solid #cd8b00;
+    color: #6f4b00;
+    font-size: 13px;
+    margin-top: 15px;
+    padding: 1px 10px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.btn-bgc {
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    color: #555;
+}
+.cloud-zz {
+    position: relative;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    top: 10%;
+    z-index: 1100;
+    margin: 30px auto;
+}
+
+.modal-section1 {
+    padding: 16px 15px 5px;
+}
+.modal-title {
+    color: #333;
+}
+.modal-close1 {
+    background: none;
+    border: none;
+    font-size: 22px;
+    color: #555;
+    width: 30px;
+    line-height: 12px;
+    cursor: pointer;
+}
+.mosec1-content {
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 15px;
+}
+.mosec1-ts {
+    background-color: #fcf8e2;
+    border: 1px solid #FBECCB;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    color: #f68300;
+    padding: 7px 15px;
+    font-weight: bold;
+}
+.login-pwd, .confirm-pwd {
+    color: #555;
+    padding-top: 8px;
+    text-align: right;
+    width: 20%;
+}
+
+.float-left.login-pwd > span {
+    color: #f68300;
+}
+.login-pwd-in, .confirm-pwd-in {
+    padding-left: 8%;
+    width: 72%;
+}
+.changePwd-part1,.changePwd-part2 {
+    margin-top: 20px;
+}
+.loginPwd-text, .confirmPwd-text {
+    height: 30px;
+    width: 86%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.wacth00 {
+    color: #555;
+}
+
+
+.conirmPwdIf {
+    color: #333;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.text-size-16 {
+    font-size: 16px !important;
+}
+.text-size-14 {
+    font-size: 14px !important;
+}
+.text-primary {
+    color: #09c !important;
+    cursor: pointer;
+}
+.text-primary1 {
+    color: #666 !important;
+    cursor: pointer;
+}
+
+.example {
+    background-color: #eee;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    color: #333;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 8px 15px;
+    width: 88%;
+}
+.mosec1-button {
+    padding: 15px;
+}
+.mosec1-button button{
+    color: #555;
+    font-size: 14px;
+    padding: 3px 10px;
+    margin-left: 10px;
+}
+.modal-new {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: fixed;
+    top: 30%;
+    z-index: 1300;
+}
+.modal-tt1 {
+    font-size: 16px;
+}
+.modal-tt {
+    padding: 5px 10px 5px 20px;
+}
+.modal-ttl {
+    padding: 10px;
+}
+.modal-tt1 {
+    font-size: 14px;
+    color: #555;
+}
+.btnnew1 {
+    background-color: #ddd;
+    font-size: 14px;
+    color: #555;
+    padding: 2px 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.btnnew {
+    background-color: #E11818;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 2px 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+}

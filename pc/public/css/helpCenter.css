@@ -1,0 +1,127 @@
+.help-center {
+    width: 100%;
+    border-top: 1px solid #ddd;
+}
+.helpCenter-middle {
+    width: 1200px;
+    padding: 40px 0;
+}
+
+.help-center-section1
+{
+    background-image: url("../images/search01.png");
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 942px;
+}
+.help-center-section2 {
+    width: 942px;
+    padding: 30px 0;
+}
+.help-center-search-form img {
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.help-center-search-key {
+    background: transparent none repeat scroll 0 0;
+    color: #ccc;
+    float: left;
+    font-size: 18px;
+    height: 50px;
+    margin-left: 10px;
+    width: 758px;
+    border: none;
+}
+.help-center-search-submit {
+    background: transparent url("../images/search02.png") repeat scroll 0 0;
+    color: #fff;
+    font-size: 16px;
+    height: 34px;
+    margin-top: 8px;
+    width: 120px;
+    border: none;
+}
+.help-center-search-form {
+    height: 58px;
+}
+.search-record-title {
+    font-size: 13px;
+    color: #0071a5;
+}
+.search-record-con>a {
+    font-size: 13px;
+    color: #6b6b6b;
+    margin: 0 5px;
+}
+.search-record-con>a:hover {
+    text-decoration: underline;
+}
+.helpCenter-sec2-title {
+    border-bottom: 1px solid #ddd;
+    color: #0071a5;
+    font-size: 16px;
+    padding: 5px 0;
+}
+.helpCenter-sec2-title>span {
+    border-bottom: 2px solid #0194c1;
+    padding-bottom: 5px;
+}
+.help-center-search-submit {
+    background: transparent url("../images/search02.png") repeat scroll 0 0;
+    color: #fff;
+    font-size: 16px;
+    height: 34px;
+    margin-top: 8px;
+    width: 120px;
+}
+.help-center-middle1 {
+    text-align: center;
+}
+.helperCenter-sec2-con {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+.helpCenter-text1 {
+    background-color: #FF9900;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 2px 5px;
+    margin-right: 6px;
+    display: inline-block;
+}
+.helpCenter-text2 {
+    font-size: 15px;
+    color: #0185ad;
+}
+.helpCenter-text3 {
+    font-size: 15px;
+    color: #FF9900;
+}
+.help-center-search-submit {
+    background: transparent url("../images/search02.png") repeat scroll 0 0;
+    color: #fff;
+    font-size: 16px;
+    height: 34px;
+    margin-top: 8px;
+    width: 120px;
+}
+
+.help-center-middle1 {
+    text-align: center;
+}
+
+.sec2-con-con {
+    color: #818181;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.helperCenter-sec2-con>ul>li {
+    margin-top: 10px;
+}

@@ -1,0 +1,437 @@
+.marLeft1 {
+    margin-left: 36px;
+}
+.recharge {
+	    min-height: 875px;
+}
+.charge-top {
+    padding-top: 5px;
+}
+.charge-content{
+    background-color:#fff;
+    margin: 57px;
+    /*border: 1px solid #ddd;*/
+}
+
+.charge-title-rz {
+    background: rgba(0, 0, 0, 0) url("../images/renzheng.png") no-repeat scroll 0 30px;
+    height: 200px;
+    color: #4b4b4b;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.charge-title {
+    border-bottom: 1px dashed #ddd;
+    color: #4b4b4b;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.charge-middle{
+    margin-left:50px;
+    padding-top:20px;
+}
+p.sum-ye {
+    color: #595959;
+    font-size: 17px;
+}
+.km1 {
+    color: #b60600;
+    font-size: 24px;
+}
+.charge-text1 {
+    color: #b60600;
+    font-size: 20px;
+}
+.fm-item {
+    border: 1px solid #fff;
+    border-radius: 3px;
+    clear: both;
+    color: #777;
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 12px;
+    overflow: hidden;
+    padding: 8px 0 0 90px;
+}
+
+.fm-text {
+    margin: -3px 0 0;
+    padding: 4px;
+    line-height: 16px;
+    border: 1px solid #CCC;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+.dg {
+    position: absolute;
+    left: 127px;
+    z-index: 100;
+}
+.label-current {
+    border: 2px solid #FE9900!important;
+}
+.ico {
+    padding: 0 0 0 20px;
+    line-height: 16px;
+    position:absolute;
+    top:3px;
+
+}
+.torange {
+    color: #b60600 !important;
+    font-size: 12px;
+}
+.register-section3 {
+    height: 38px;
+    background-color: #f8f8f8;
+    margin-top: 30px;
+    padding-left: 20px;
+    color: #555;
+    font-size: 16px;
+    font-family: "微软雅黑";
+    line-height: 38px;
+    text-align: left;
+}
+.revise-password-p52 {
+    background-color: #fe9900;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    float: left;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    padding: 4px 20px;
+    text-align: center;
+}
+.register-section1-part01 {
+    background-image: url(../images/t1-1.png);
+
+}
+.register-section1-part02 {
+    background-image: url(../images/t2.png);
+    color:#fff;
+}
+.zf-pub{
+    width:100px;
+    height:36px;
+    font-size:14px;
+    line-height:36px;
+    text-align:center;
+    border-left:1px solid #ddd;
+    cursor:pointer;
+}
+.zf-pub1{
+    color:#fff;
+    background-color:#005EA6;}
+.buy-zf-all{
+    border:1px solid #ddd;
+    border-left:none;}
+.zf-content {
+    margin-top: 20px;
+
+}
+.register-section4 {
+    padding-left: 60px;
+    margin-top: 25px;
+}
+.zf-zfb,.zf-kq {
+    padding: 12px;
+    padding-left: 0;
+}
+.zfb-img,.kq-img{
+    width:144px;
+    height:31px;
+    display:inline-block;
+    background-image:url("../images/zf.png");
+    background-repeat:no-repeat;
+    background-position:0 0;
+    border:1px solid #ddd;
+}
+.kq-img{
+    background-image:url("../images/kq.png");
+    background-repeat:no-repeat;
+}
+.zf-con-pub li {
+    position: relative;
+    float: left;
+    display: inline;
+    height: 33px;
+    width: 218px;
+    padding-bottom: 10px;
+}
+.zf-con-pub li input {
+    float: left;
+    display: none;
+    width: 13px;
+    height: 13px;
+    margin: 10px 10px 0 0;
+}
+.zf-con-pub li label {
+    float: left;
+    display: inline;
+    width: 142px;
+    height: 31px;
+    border: solid 1px #ddd;
+}
+
+.register-section5 p{ margin-right:15px;}
+.buy-select {
+    border-bottom: 1px dashed #ddd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    font-family: "微软雅黑";
+    color: #777;
+    text-align: left;
+    padding-left: 58px;
+}
+.money-input{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100px;
+    height: 20px;}
+.money-ye {
+    position: relative;
+}
+.money-check{
+    position: absolute;
+    top: 4px;
+}
+.voucher-ye{
+    margin-top:12px;}
+input.voucher-in {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 130px;
+    height: 20px;
+}
+
+
+/*代金券*/
+.vouchers-box {
+    margin-top: 20px;
+    padding: 0 10px 10px 0;
+}
+.vouchers-box .title {
+    height: 28px;
+    padding: 6px 10px 6px 20px;
+    background-color: #f8f8f8;
+
+    font-family: "微软雅黑";
+}
+.vouchers-box .title label, .vouchers-box .title strong {
+    float: left;
+    display: inline;
+    font-size: 14px;
+    line-height: 2;
+    color: #333;
+    font-weight: normal;
+}
+.ml10 {
+    margin-left: 10px;
+}
+.vouchers-box .title .info {
+    float: left;
+    display: inline;
+    font-size: 12px;
+    color: #999;
+    line-height: 1.5;
+    margin-top: 5px;
+    font-family: "微软雅黑";
+}
+.lnk:link, .lnk:visited {
+    color: #06c;
+}
+.vouchers-box .title .deductible {
+    float: right;
+}
+.add {
+    margin-left: 20px;
+    padding: 22px 23px;
+    font-size: 14px;
+    font-family: "微软雅黑";
+    padding-bottom: 14px;
+    background-color: #fff;
+}
+.vouchers-box .title .total {
+    float: right;
+    display: inline;
+    color: #f60;
+    font: 18px/28px Tahoma;
+}
+.vouchers-box .title .total .cny {
+    margin-right: 2px;
+    font-family: Arial;
+}
+.vouchers-box .title .total-text {
+    float: right;
+    display: inline;
+    margin: 5px 10px 0 0;
+    color: #333;
+}
+、.vouchers-box .add {
+    height: 26px;
+    padding: 10px 10px 10px 29px;
+    background: #fafafa;
+    overflow: hidden;
+}
+.vouchers-box .add label {
+    float: left;
+    display: inline;
+    margin-top: 4px;
+}
+.vouchers-box .add .uc-input {
+    float: left;
+    display: inline;
+    width: 150px;
+}
+.uc-input {
+    border: solid 1px #d4d4d4;
+    width: 44px;
+    height: 12px;
+    padding: 6px 4px;
+    font-size: 12px;
+    line-height: 1;
+    outline: none;
+    border-radius: 4px;
+    box-shadow: inset 1px 1px 1px #e8e8e8;
+    color: #000;
+}
+.vouchers-box .add button {
+    float: left;
+    display: inline;
+    width: 64px;
+}
+.uc-button-s {
+    height: 26px;
+    font-size: 12px;
+    line-height: 1.8;
+}
+.vouchers-box .add .tip {
+    float: left;
+    margin-top: 4px;
+    color: #666;
+    margin-left: 20PX;
+}
+
+.icon-wrong{
+    display:inline-block;
+    width:12px;
+    height:12px;
+    background-image:url("../images/er.png")}
+span.tip-text {
+    margin-lefT: 6PX;
+}
+.uc-button-gray {
+    background: #fff;
+    color: #00a2c9;
+    border: solid 1px #33b5d4;
+    text-shadow: none;
+    border-radius: 4px;
+}
+.uc-button-gray:hover{
+    background-color: #33b5d4;
+    color:#fff;
+}
+i.icon-yes2 {
+    display:inline-block;
+    width:12px;
+    height:12px;
+    background-image:url("../images/tf1.png")}
+.fn-hide{
+    display:none;}
+.uc-table {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    margin-left: 10px;
+    float: left;
+    background-color: #f8f8f8;
+    margin-top: 10px;
+    border: 1px solid #eee;
+    border-bottom:none;
+    line-height: 24px;
+}
+.uc-table-list {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    margin-left: 10px;
+    float:left;
+    border: 1px solid #eee;
+    border-top:none;
+    line-height: 24px;
+}
+.uc-table li,.uc-table-list li{
+    width:150px;}
+.cash-box.current {
+    text-align: left;
+    padding-left: 20px;
+    font-family: "微软雅黑";
+    padding: 0 10px 10px 0;
+    background-color: #f8f8f8;
+    height: 30px;
+}
+.title {
+    padding-top: 7px;
+}
+.cash-box .title .warning {
+    /* float: left; */
+    display: inline;
+    margin-top: 5px;
+    color: #f60;
+    font-size: 12px;
+}
+.deductible {
+    float: right;
+    display: inline;
+}
+element.style {
+}
+.other-box .title .total-text {
+    float: right;
+    display: inline;
+    margin: 5px 10px 0 0;
+    color: #333;
+}
+element.style {
+}
+.title .total {
+    float: right;
+    display: inline;
+    color: #f60;
+    font: 18px/28px Tahoma;
+}
+.total .cny {
+    margin-right: 2px;
+    font-family: Arial;
+}
+.total-text {
+    float: right;
+    display: inline;
+    margin: 5px 10px 0 0;
+    color: #333;
+}
+.warning {
+    margin: 0 62px 30px;
+    line-height: 24px;
+    background-color: #DFF8FF;
+    border: 1px solid #78A7B1;
+    padding: 10px;
+    color: #333;
+}
+.charge-new {
+    background-color: #39a1ea;
+    color: #fff;
+    display: inline-block;
+    margin-left: 26px;
+    padding: 2px 10px;
+}

@@ -1,0 +1,337 @@
+.user-submit-order-title {
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 16px;
+}
+span.submit-order-title {
+    margin-right: 10px;
+    color: #0395bf;
+}
+.user-center{
+    width:100%;
+    background-color:#FCFCFC;}
+.user-center-all{
+    width:1030px;
+    margin: auto;
+    padding-top:25px;
+    padding-bottom:25px;}
+.user-center-left{
+    width:140px;
+    padding:20px 15px;
+    border:1px solid #ddd;
+    text-align:center;
+}
+.per-hover{
+    display:inline-block;}
+.user-center-right{
+    width:836px;
+    height: 645px;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.center-left-section1{
+    position:relative;}
+p.user-per {
+    line-height: 24px;
+}
+.xg-zl{
+    margin-top:8px;}
+.xg-zl a{
+    color:#777;}
+.xg-zl:hover{
+    text-decoration:underline;
+    color:#007396;}
+.xg-header{
+    position:absolute;
+    top:40px;
+    left:25px;
+    z-index:0;
+    width:90px;
+    height:20px;
+    color: #555;
+    background-color: #ddd;
+}
+.qq1{
+    color:#777;}
+.user-line span{
+    display:inline-block;
+    width:104px;
+    height:1px;
+    background-color:#eee;
+    margin-top:14px;}
+.user-line1 span{
+    display:inline-block;
+    width:140px;
+    height:1px;
+    border-top:1px dashed #ddd;
+    margin-top:14px;}
+p.money-ye {
+    margin-top: 5px;
+    color: #666;
+    font-size: 14px;
+}
+.money-ye span{
+    color:#FF6600;
+    font-size:24px;
+    font-weight: bold;}
+.part1-pub{
+    margin-left:15px;}
+.part1-pub0 a{
+    color:#106FCF;
+    line-height:24px;}
+.part1-pub0 a:hover{
+    text-decoration:underline;}
+.user-part1{
+    margin-top: 12px;}
+
+.gt1{
+    text-align:left;}
+.gt2{ text-align:right;}
+.jh1{
+    color:#106FCF;}
+.jh1:hover{
+    text-decoration:underline;}
+.line-lj{
+    line-height:22px;}
+.center-zb {
+    margin-top: 14px;}
+.center-zb-part1{
+    padding-top:2px;}
+.center-zb-part2{
+    width: 112px;
+    margin-left: 8px;
+    text-align: left;
+    color: #555;}
+.cr-all{
+    height:48px;
+    border:1px solid #ddd;
+    border-bottom:none;
+    background-color:#FCFCFC;
+    position:relative;}
+.cr-title{
+    width:182px;
+    height: 49px;
+    background-color: #fff;
+}
+.center-right-section2{
+    width:836px;
+    border:1px solid #ddd;
+    background-color: #fff;}
+p.cr-part02 {
+    font-size: 16px;
+    color: #777;
+    margin-left: 6px;
+    line-height: 48px;
+}
+.cr-part01 {
+    padding-top: 17px;
+    padding-left: 48px;
+}
+.cr-part03{
+    width:19px;
+    height:20px;
+    background-image:url("../images/circle02.png");
+    background-repeat:no-repeat;
+    position:absolute;
+    top: 7px;
+    left: 120px;
+    color: #fff;
+    padding-left: 6px;}
+.d-list{
+    border-bottom:1px solid #ddd;}
+.d-list ul li{
+    text-align:center;
+    line-height:45px;
+    font-size: 14px;
+    color:#0386AF;}
+.d-list1 ul li {
+    color: #666;
+}
+.d-detail a {
+    color:#00A8DC;
+    text-decoration: underline;
+}
+.tm1{
+    width:100px;}
+.tm2{
+    width:159px;}
+.tm3{
+    color:#fff;
+    background-color:#01A8DC;
+    padding-left: 4px;
+    padding-right: 4px;}
+.tm4{
+    display: inline-block;
+    width:40px;
+    height:28px;
+    margin-top: 8px;}
+.d-detail{
+    padding: 20px 40px;
+    border-bottom: 1px solid #ddd;}
+.d-detail-part1{
+    height:30px;
+    background-color:#f8ffee;
+    line-height:30px;
+    padding-left:10px;
+    border:1px solid #7fbb0d;}
+.d-detail-part2{
+    margin-top:15px;
+    border:1px solid #ddd;}
+.d-zt.left {
+    padding-top: 6px;
+}
+
+.order-head {
+    height: 48px;
+    border-bottom: 1px #e6e6e6 dashed;
+    padding-left: 8px;
+}
+.order-head h1 {
+    display: block;
+    float: left;
+    font-size: 18px;
+    color: #333;
+    line-height: 48px;
+    margin-left: 8px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.d-list ul {
+    width: 100%;
+}
+.order-head span {
+    display: block;
+    float: right;
+    margin-right: 20px;
+    color: #999;
+    line-height: 48px;
+}
+.order-head span i {
+    color: #333;
+}
+.y-mt5 {
+    margin-top: 20px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.order-info td, .order-change-info td {
+    padding: 10px 20px;
+    color: #999;
+}
+.y-black {
+    color: #000;
+}
+
+
+
+.y-row .y-span3 {
+    width: 23.5%;
+}
+.y-row .y-span1 {
+    width: 6.5%;
+}
+.y-row .y-span4 {
+    width: 32%;
+}
+.systemNews-tm {
+    width:64px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+.d-content ul {
+    width: 100%;
+}
+.order-detail-list dl dt {
+    padding: 0 2%;
+    height: 34px;
+    line-height: 34px;
+    background: #ededed;
+    border-bottom: 1px #e3e3e3 solid;
+}
+.order-detail-list dl dt span {
+    background: #ededed;
+    font-weight: 700;
+    color: #333;
+
+}
+.y-clear span{
+    display: inherit;
+    float: left;}
+.order-detail-list dl dd:last-child {
+    border-bottom: 1px #e3e3e3 solid;
+}
+.order-detail-list dl dd {
+    width: 96%;
+    padding: 12px 2% 10px;
+    background: #fff;
+    clear: both;
+}
+i {
+    font-style: normal;
+}
+
+span.y-span3 {
+    width: 20%;
+    display: inline-block;
+}
+span.y-span1 {
+    width: 10%;
+    display: inline-block;
+}
+span.y-span4 {
+    display: inline-block;
+    width: 32%;
+}
+span.y-span2-2 {
+    display: inline-block;
+    width: 18%;
+    text-align: center;
+}
+i {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.order-detail-price {
+    height: 128px;
+    line-height: 36px;
+    padding: 0 2%;
+    color: #666;
+}
+.order-detail-price span {
+    float: right;
+    line-height: 30px;
+    margin-right: 2%;
+}
+.order-detail-price span i {
+    font-size: 14px;
+    text-align: right;
+    width: 140px;
+    float: right;
+    font-weight: 700;
+}
+dd.y-clear {
+    color: #666;
+}
+.y-red{
+    color:#F30;}
+.pri-line{
+    width:300px;
+    height:1px;
+    background-color:#ddd;
+    float:right;
+    margin-top: 12px;
+    margin-bottom: 15px;}
+.news-center-left1{
+    margin-left:15px;}
+.news-center-left2{
+    margin-left:10px;}
+.news-text1{
+    color:#858585;
+    line-height:28px;}

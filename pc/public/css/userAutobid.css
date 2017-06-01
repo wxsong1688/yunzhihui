@@ -1,0 +1,117 @@
+
+.userAutobid-content {
+    margin-left: 30px;
+    margin-right: 94px;
+    margin-top: 30px;
+}
+.userAutoBid-con-section1 {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    min-width: 796px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+.userAutobid-sec1-title {
+    font-size: 15px;
+    color: #555;
+    background-color: #f7f7f7;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+.autobid-text1 {
+    color: #777;
+    font-size: 14px;
+    line-height: 28px;
+}
+.userAutobid-content {
+    background-color: #fff;
+}
+.autobid-text2 {
+    font-size: 14px;
+    font-family: 新宋体;
+    color: #6B6B6B;
+    line-height: 28px;
+}
+.userAutobid-sect-part1 {
+    padding: 22px 46px;
+}
+.bidsect-part3-00 {
+    padding: 22px 46px;
+    border-bottom: 1px solid #eee;
+}
+.userAutobid-sect-part3 {
+    background-color: #fff;
+}
+.autobid-money ,.autobid-date,.autobid-kind{
+    margin-top: 20px;
+}
+.userAutobid-sect-part2 {
+    font-size: 17px;
+    color: #555;
+    background-color: #f9f9f9;
+    padding: 9px 10px;
+}
+.autobid-text3 {
+    font-family: 宋体;
+    font-size: 14px;
+    color: #706F6F;
+}
+.am-default {
+    background-color: #F9F9F9;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    text-align: center;
+    border: 1px solid #CDCDCD;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-right: 10px;
+    width: 88px;
+}
+.am-current {
+    background-color: #E2FEE5;
+    border: 1px solid #5AD563;
+    color: #56A061;
+}
+.autobid-money ul li,.autobid-date ul li ,.autobid-kind ul li{
+    cursor: pointer;
+}
+.autobid-money-t {
+    margin-top: 4px;
+}
+.bidsect-part3-01 {
+    padding: 6px 46px;
+}
+.bidsect-part3-01 ul>li {
+    margin-right: 30px;
+}
+.bidsect-part3-01 ul>li input {
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.autobid-text4 {
+    color: #bd0000;
+    font-size: 13px;
+}
+.agree-check {
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.agree-xy {
+    margin-top: 22px;
+}
+.bid-button {
+    background-color: #01a8dc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    margin-left: 46px;
+    margin-top: 10px;
+    padding: 6px 20px;
+}

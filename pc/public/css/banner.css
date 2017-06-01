@@ -1,0 +1,314 @@
+@charset "utf-8";
+/* CSS Document */
+
+.clearfix:after{
+    content: ".";
+    display: block;
+    height: 0;
+    visibility:
+    hidden;
+    clear: both;}
+.clearfix{
+    *zoom:1;
+}
+/*main css*/
+.show{
+    display:block;
+}
+.none{
+    display:none;
+}
+.banner-all{
+    width: 100%;
+    height: 336px;
+}
+.banner{
+    width: 100%;
+    min-width: 1000px;
+    overflow: hidden;
+    position: relative;
+    height: 336px;
+    z-index: 998;
+}
+.banner_container{
+    height: 336px;
+    width: 100%;
+    min-width: 1000px;
+    max-width:1920px;
+    display: block;
+    overflow: hidden;
+    left: 50%;
+    margin-left: -720px;
+    z-index: 997
+}
+.banner_container .banner_content{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    min-width: 1200px;
+    height: 100%;
+    overflow: hidden;
+    z-index: 996
+}
+.banner_container .banner_content img{
+    z-index: 995
+}
+.banner_nav{
+    position: absolute;
+    bottom: 1px;
+    left: 50%;
+    margin-left: -64px;
+    z-index: 999}
+.banner_nav li{
+    float: left;
+    width: 28px;
+    height: 20px;}
+.banner_nav li a{
+    float: left;
+    width: 28px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 0;
+    cursor: pointer;
+    background-image: url(../images/point_2.png);
+    background-repeat: no-repeat;
+    _background:none;
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src='../images/point_2.png')}
+.banner_nav li.current a{
+    background-image: url(../images/point_1.png);
+    _background:none;
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src='../images/point_1.png');}
+.prove_index,.next_index{
+    background:url("../images/btn00.png") no-repeat;
+    top:45%;
+    height:47px;
+    width:44px;
+    position:absolute;
+    z-index:999;
+    cursor:pointer;
+}
+.prove_index{
+    left:20px;
+    background-position:44px 0;
+    display:none;}
+.next_index{
+    right:20px;
+    background-position:0px 47px;
+    display:none;}
+
+#kfbtn:hover,#dzbtn:hover,#ylbtn:hover,#jgbtn:hover,#mzbtn:hover,#qjbtn:hover{
+    background-position:0 31px;
+}
+.banner1{
+    background:url("../images/banner1.png") no-repeat;
+
+}
+.banner2{
+     background:url("../images/banner1.png") no-repeat;
+ }
+.banner3{
+    background:url("../images/banner1.png") no-repeat;
+}
+.banner-a0{
+    width:1920px;
+    height:420px;
+    display:block
+}
+.banner1-01{
+    position:absolute;
+    left:-200px;
+    top:88px;
+    display:block;
+}
+.banner1-03{
+    position:absolute;
+    left:-200px;
+    top:164px;
+    display:block;
+}
+.banner1-04{
+    position:absolute;
+    left:-200px;
+    top:211px;
+    display:block;
+}
+.banner1-02{
+    position:absolute;
+    left:-200px;
+    top:49px;
+    display:block;
+}
+.banner1-05{
+    position:absolute;
+    left:-200px;
+    top:245px;
+    display:block;
+}
+.banner1-all{
+    width:1200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 420px;
+    position: relative;
+}
+.banner-login{
+    position: relative;
+    top: -360px;
+    width: 1200px;
+    height: 336px;
+
+}
+.banner-login-all{
+    width: 324px;
+    height: 300px;
+    position: absolute;
+    right: 0;
+    top: 13%;
+    z-index: 1200;
+}
+.banner-login-bg{
+    width: 324px;
+    height: 300px;
+    background-color: #000000;
+    filter: alpha(opacity=30);
+    -moz-opacity:0.3;
+    -khtml-opacity: 0.3;
+    opacity: 0.3;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    position: absolute;
+    right: 0;
+    top: 13%;
+    z-index: 1200;
+}
+.banner-login-top {
+    background-image: url("../images/login-top.png");
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 18px;
+    height: 49px;
+    line-height: 44px;
+    width: 324px;
+}
+.login-username{
+    position: relative;
+    background-image: url("../images/bg-group.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 280px;
+    margin-top: 20px;
+}
+.login-password{
+    position: relative;
+    background-image: url("../images/bg-group.png");
+    background-position: 0 -50px;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 280px;
+    margin-top: 20px;
+}
+.login-code{
+    position: relative;
+    background-image: url("../images/bg-group.png");
+    background-position: 0 -100px;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 175px;
+    margin-top: 20px;
+}
+.login-code-img{
+    background-image: url("../images/bg-group.png");
+    background-position: -179px -100px;
+    background-repeat: no-repeat;
+    height: 40px;
+    margin-left: 2px;
+    margin-top: 20px;
+    position: relative;
+    width: 100px;
+}
+.login-button{
+    position: relative;
+    background-image: url("../images/bg-group.png");
+    background-position: 0 -100px;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 175px;
+    margin-top: 20px;
+}
+.login-button button{
+    border: medium none;
+    background: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 280px;
+    height: 40px;
+}
+
+.login-button {
+    background-image: url("../images/bg-group.png");
+    background-position: 0 -160px;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    height: 40px;
+    margin-top: 20px;
+    position: relative;
+    width: 280px;
+}
+.code-all{
+    width: 280px;
+}
+.username input,.password input,.code input{
+    border: medium none;
+    color: #999999;
+}
+.username ,.password,.code{
+    font-size: 16px;
+    height: 23px;
+    left: 40px;
+    padding: 8px 10px;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+.username input,.password input {
+    width: 218px;
+}
+.code input{
+    width: 112px;
+}
+.code{
+    width: 112px!important;
+}
+.text-center.no-account {
+    color: #FFFFFF;
+    margin: 20px auto;
+}
+.text-center.no-account > a {
+    color: #C40024;
+}
+.no-account > a:hover {
+    text-decoration: underline;
+}
+.password {
+    position: relative;
+}
+.index-pwd-inner {
+    color: #999999;
+    font-size: 16px;
+    left: 10px;
+    position: absolute;
+    top: 8px;
+    cursor: auto;
+    z-index: 1;
+}
+.password>input {
+    background-color: transparent;
+    left: 10px;
+    position: absolute;
+    top: 8px;
+    z-index: 3;
+}

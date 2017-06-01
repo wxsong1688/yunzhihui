@@ -1,0 +1,152 @@
+.register-middle{
+    border-top: 1px solid #ddd;
+    width: 100%;
+}
+.register-middle-sec {
+    width: 1200px;
+}
+.regmid-sec {
+    margin: 40px 60px;
+    border: 1px solid #33B5EB;
+}
+.regmid-sec-title {
+    margin: 1px;
+    background-color: #0CABEF;
+    padding: 12px 18px;
+    font-size: 16px;
+    color: #fff;
+}
+.regmid-sec-con {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.regmid-sec-con1 {
+    margin-top: 18px;
+}
+.regmid-sec-con1 label {
+    color: #555;
+    display: inline-block;
+    font-family: "新宋体";
+    font-size: 14px;
+    margin-top: 9px;
+    width: 36%;
+}
+.regmid-sec-con1 input{
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    color: #888;
+    font-size: 14px;
+    margin-top: 5px;
+    padding: 6px 10px;
+    width: 285px;
+}
+.red {
+    color: #d60000;
+    display: inline-block;
+    font-size: 18px;
+    text-align: center;
+    width: 18px;
+}
+.register-ts1,.register-ts3 {
+    background: #fff2e9 url("../images/re-war.png") no-repeat scroll 8px 7px!important;
+    color: #ee7402;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-left: 5px;
+    padding: 3px 24px;
+ }
+.register-ts1_1 {
+    background: url("../images/pwd-right.png") no-repeat scroll 8px 7px;
+    height: 25px;
+    color: #ee7402;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 5px;
+    padding: 3px 24px;
+}
+.register-ts3_1 {
+    background: url("../images/pwd-right.png") no-repeat scroll 8px 7px;
+    height: 25px;
+    color: #ee7402;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 5px;
+    padding: 3px 24px;
+}
+.register-ts4 {
+    color: #ee7402;
+    font-size: 12px;
+    padding: 12px 16px;
+}
+.register-ts2 {
+    margin-top: 4px;
+	width: 313px;
+}
+.register-ts2 span {
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    width: 32%;
+    font-size: 10px;
+    background-color: #FABF6A;
+}
+.register-ts5 {
+    background: #fff2e9 url("../images/re-war.png") no-repeat scroll 8px 7px!important;
+    color: #ee7402;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-left: 55px;
+    padding: 3px 24px;
+ }
+.register-read{
+    background: #fff2e9 url("../images/re-war.png") no-repeat scroll 8px 7px!important;
+    color: #ee7402;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-left: 86px;
+    padding: 3px 24px;
+}
+.high {
+    background-color: #FF9900!important;
+}
+.phone-yzm {
+    width: 100px!important;
+}
+.reget {
+    background-color: #ddd !important;
+    color: #666 !important;
+    margin-left: 10px;
+    padding: 5px !important;
+    width: 125px !important;
+}
+.reget_go {
+    background-color: #ff6600 !important;
+    color: #fff !important;
+    margin-left: 10px;
+    padding: 5px !important;
+    width: 125px !important;
+    cursor: pointer;
+}
+.agreeXy {
+    display: inline-block;
+    position: absolute;
+    top: -2px;
+    width: 20px !important;
+}
+.relative {
+    position: relative;
+}
+.agree-text {
+    margin-left: 22px;
+}
+.agreeBtn {
+    margin-left: 36%;
+    background-color: #FF6600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    padding: 5px 15px;
+    border: none;
+}

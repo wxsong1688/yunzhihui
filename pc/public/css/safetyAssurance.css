@@ -1,0 +1,30 @@
+.safetyAssurance {
+    width: 100%;
+    background-color: #f9f9f9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.safetyAssurance-middle {
+    width: 1103px;
+}
+.safe-sec2-title {
+    background-color: #eeeeee;
+    margin: 10px 0;
+}
+.safe-sec2-title>p {
+    background-color: #37a6cd;
+    color: #fff;
+    font-size: 18px;
+    padding: 3px 20px;
+}
+.safe-sec-con1 {
+    font-size: 15px;
+    color: #737373;
+    padding: 2px 0;
+}
+.color-blue {
+    color: #1882a7
+}
+.safe-sec2-content {
+    padding: 10px 0;
+}

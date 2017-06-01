@@ -1,0 +1,24 @@
+.findPwd-yzm>input {
+    width: 90px!important;
+}
+.pwd-safe {
+    background-color: #ff9a9e;
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+    height: 17px;
+    margin-right: -2px;
+    width: 102px;
+}
+.safe-current {
+    background-color: #FD002C;
+}
+.pwdRestart-safe {
+    margin-left: 206px;
+    margin-top: 10px;
+}
+.pwdRestart-sm {
+    background: rgba(0, 0, 0, 0) url("../images/hg.png") no-repeat scroll 0px 3px;
+    margin-left: 206px;
+    padding-left: 16px;
+}

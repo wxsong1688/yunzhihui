@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.list-pagination {
+	width: 100%;
+	text-align: right;
+	padding-bottom:40px;
+	margin-top: 30px;
+}
+.y-pagination a {
+	color: #333;
+}
+.y-pagination .p-prev, .y-pagination .p-next {
+	width: 66px;
+}
+.y-pagination .p-prev, .y-pagination .p-next {
+	border: solid 1px #dddddd;
+	color: #333;
+	border-radius: 2px;
+	text-decoration: none;
+}
+.y-pagination .p-elem {
+	display: inline-block;
+	margin: 0 4px;
+	vertical-align: middle;
+	text-align: center;
+	min-width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+.y-pagination .current {
+	border-color: #00a2ca;
+	background-color: #00a2ca;
+	color: #fff;
+	cursor: default;
+}
+.y-pagination a.p-item, .y-pagination .p-prev, .y-pagination .p-next{
+	border: solid 1px #dddddd;
+	color: #333;
+	border-radius: 2px;
+	text-decoration: none;
+}
+.y-pagination .p-total, .y-pagination .p-item-go {
+	color: #666;
+}
+.y-pagination .p-ipt-go {
+	width: 48px;
+	border: solid 1px #ddd;
+}
+.y-pagination .p-btn-go {
+	display: inline-block;
+	color: #33b5d4;
+	width: 38px;
+	border: solid 1px #33b5d4;
+	text-decoration: none;
+	border-radius: 2px;
+}
+.y-pagination .p-ipt-go, .y-pagination .p-btn-go {
+	height: 22px;
+	line-height: 22px;
+	vertical-align: top;
+	padding: 0;
+	margin: 3px 5px 0;
+	text-align: center;
+}

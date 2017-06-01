@@ -1,0 +1,30 @@
+
+.header {
+    min-width: 1200px;
+}
+.top-section3 {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.top-section3-part {
+    width: 100%;
+}
+.tsp-left {
+    margin-left:94px;
+}
+
+.top-section2-part1 {
+    width: 100%;
+}
+.tsp-right {
+    margin-right: 94px;
+}
+.section3-left1 {
+    margin-right: 84px;
+}
+.top-section2 {
+    padding: 8px 0 9px;
+}

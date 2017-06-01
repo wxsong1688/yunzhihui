@@ -1,0 +1,225 @@
+.withdrawals-content{
+    background-color:#fff;
+    margin: 57px;
+    /*border: 1px solid #ddd;*/
+}
+.withdrawals-con-title-rz {
+    background: rgba(0, 0, 0, 0) url("../images/renzheng.png") no-repeat scroll 0 30px;
+    height: 200px;
+    color: #4b4b4b;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.withdrawals-con-title {
+    border-bottom: 1px dashed #ddd;
+    color: #4b4b4b;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.withdrawals-middle{
+    margin-left:50px;
+    padding-top:20px;
+    margin-right: 50px;
+}
+.withdrawals-middle p.sum-ye {
+    color: #595959;
+    font-size: 14px;
+}
+.withdrawals-middle .km1 {
+    color: #b60600;
+    font-size: 24px;
+}
+.withdrawals-middle .fm-item {
+    border: 1px solid #fff;
+    border-radius: 3px;
+    clear: both;
+    color: #777;
+    font-size: 14px;
+    margin-top: 12px;
+    overflow: hidden;
+    padding: 8px 0;
+}
+
+.withdrawals-middle .fm-text {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    margin: -6px 0 0;
+    padding-left: 5px;
+    vertical-align: middle;
+    color: #636361;
+}
+#withdrawalsName {
+    font-size: 14px;
+    height: 32px !important;
+    line-height: 32px;
+}
+.fm-title {
+    float: left;
+    text-align: right;
+    width: 94px;
+}
+#withdrawalsMoney {
+    font-size: 14px;
+    font-family: 微软雅黑;
+	height: 32px!important;
+}
+.withdrawals-y {
+    background-color: #999999;
+    border-bottom: 1px solid #999999;
+    color: #ffffff;
+    margin-left: -7px;
+    padding: 8px 7px 5px;
+}
+.withdrawals-js {
+    font-size: 14px;
+    color: #828282;
+    margin-left: 10px;
+}
+.differ-color1 {
+    color: #fb7657;
+}
+.differ-color0 {
+    color: #999999 !important;
+}
+.withdrawalsTime {
+    background: #FFFFFF url("../images/work.png") no-repeat scroll 0 0;
+    height: 35px;
+    padding: 17px 28px 0;
+    width: 180px;
+}
+.withdrawalsBank {
+    background: #f0f6f9 url("../images/bank.png") no-repeat scroll 10px 14px;
+    cursor: pointer;
+    padding: 14px 54px;
+}
+.tx-time {
+    padding-top: 10px;
+}
+.select-bank {
+    padding-top: 35px;
+}
+.real-accout {
+    color: #333;
+}
+.confirm-btn-tx{
+    border-bottom: 1px solid #ddd;
+    padding-left: 96px;
+}
+.confirm-tx {
+    background-color: #fe9900;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 4px 20px;
+    text-align: center;
+}
+.warning {
+    line-height: 24px;
+    background-color: #DFF8FF;
+    border: 1px solid #78A7B1;
+    padding: 10px;
+    color: #333;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.withdraw-ways>li {
+    background-color: #ededed;
+    border: 1px solid #a9a9a9;
+    color: #264f6f;
+    font-family: 宋体;
+    font-size: 14px;
+    margin-left: 2px;
+    margin-right: 10px;
+    padding: 2px 14px;
+    position: relative;
+    cursor: pointer;
+
+}
+.withdraw-ways>li>span{
+    background: rgba(0, 0, 0, 0) url("../images/with-bg.png") no-repeat scroll 0 0;
+    bottom: 0;
+    height: 14px;
+    position: absolute;
+    right: 0;
+    width: 16px;
+}
+.withdraw-current {
+    border: 1px solid #A2CA33!important;
+    background-color: #fff!important;
+    color: #729a04!important;
+}
+.charge-text1 {
+    color: #b60600;
+    font-size: 20px;
+}
+.torange {
+    color: #b60600 !important;
+    font-size: 12px;
+}
+
+.charge-new {
+    background-color: #39a1ea;
+    color: #fff;
+    display: inline-block;
+    margin-left: 26px;
+    padding: 2px 10px;
+}
+.withdraw-top0 {
+    margin-top: -5px;
+}
+.bank-ka>ul {
+    position: relative;
+}
+.bank-ka>ul>li {
+    position: relative;
+    border: 1px solid #bbb;
+    height: 50px;
+    margin-top: 22px;
+    width: 620px;
+}
+.bank-ka>ul>li>span.select-curr {
+    width: 50px;
+    height: 35px;
+    position: absolute;
+    background: url("../images/bank1.png") no-repeat;
+    top: 5px;
+    left: 20px;
+}
+.bank-ka {
+    float: right;
+    width: 632px;
+}
+.public-pic {
+    /*background: rgba(0, 0, 0, 0) url("../images/zf.png") no-repeat scroll 0 0;*/
+    display: inline-block;
+    height: 31px;
+    margin-left: 75px;
+    margin-top: 10px;
+    width: 142px;
+}
+#bank-cmbchina {
+    background-position: 0 -80px;
+}
+.bank-id {
+    color: #666666;
+    display: inline-block;
+    font-size: 19px;
+    position: absolute;
+    top: 9px;
+}
+#bank-zgs {
+    background-position: -150px 0;
+}
+.lef-dd {
+    padding-left: 85px!important;
+}

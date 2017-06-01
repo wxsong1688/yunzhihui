@@ -1,0 +1,148 @@
+.header,.banner,.index-middle,.footer{
+    width: 100%;
+}
+.header {
+    background-color: #3C9DD5;
+}
+.top-section1{
+    width: 1200px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F7F7F7;
+    background-image: url("../images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.close-icon{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    padding-top: 5px;
+}
+.close-icon:hover{
+    cursor: pointer;
+}
+.top-section2{
+    background-color: #F7F7F7;
+    padding: 4px 0;
+	width: 100%;
+}
+
+.top-section2-part1{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-ke{
+    font-size: 15px;
+    color: #999999;
+    transition: color 0.2s;
+}
+.hotline-text{
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.hotline.float-left {
+    margin-left: 20px;
+}
+.hotline-blue {
+    color: #999999;
+}
+.part1-left{
+    margin-left: 54px;
+}
+.part1-left2{
+     margin-left: 32px;
+ }
+.part1-left3{
+    margin-left: 22px;
+}
+.part1-top{
+    margin-top: -4px;
+}
+.part1-top2{
+    margin-top: 2px;
+}
+.text-ke:hover{
+    color: #666666;
+}
+.top-section3{
+    width: 100%;
+    background-color: #fff;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+.top-section3-part{
+    width: 1200px;
+    margin: 0 auto;
+}
+.logo-line {
+    background-color: #999999;
+    height: 45px;
+    margin-left: 12px;
+    margin-right: 7px;
+    margin-top: -5px;
+    width: 1px;
+}
+.index-register {
+    font-size: 14px;
+    color: #777;
+    margin: 3px 10px;
+}
+.index-login {
+    font-size: 14px;
+    color: #777;
+    margin: 3px 35px 3px 50px;
+}
+.index-register:hover, .index-login:hover {
+    text-decoration: underline;
+    color: #1583D8;
+}
+.nav-a-current{
+    color: #ff6600!important;
+    font-size: 18px;
+}
+.section3-left1>ul>li, .section3-left1>a{
+    margin-left: 21px;
+    margin-right: 21px;
+}
+.section3-left1>ul>li>a{
+    color: #666666;
+    font-size:18px;
+}
+.register-bg{
+    width: 101px;
+    height: 43px;
+    background-image: url("../images/bg-login.png");
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 16px;
+    line-height: 42px;
+    text-align: center;
+    margin-top: -6px;
+}
+.nav-bot-line{
+    height: 2px;
+    background-color: #ff6600;
+}
+.nav-line-ab{
+    position: absolute;
+    top: 28px;
+}
+.tsp-top {
+    margin-top: 5px;
+}
+.loginstatus {
+	color: #666666;
+    font-size: 16px;
+}
+.userCode {
+    cursor:auto;
+}
+.userquit {
+    cursor:pointer;
+ 
+}

@@ -1,0 +1,219 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body {
+    color: #333333;
+    font-family: "Helvetica","Arial",sans-serif;
+    font-size: 16px;
+}
+ul{list-style: none;}
+#top-nav{
+    background-color: #323232;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #BBBBBB;
+    transition: color 0.3s;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color:#eeeeee;
+    transition: color 0.3s;
+}
+.dropdown-third{
+    display: inline;
+    float: left;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    background-color: #4C4C4C;
+    color: #ffffff;
+}
+.navbar-top-collapse .open  {
+    background-color: #4C4C4C;
+    color: #555555;
+}
+.navbar .divider-vertical {
+    display: block !important;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 50px;
+}
+.navbar .divider-vertical span {
+    color: #737373 !important;
+}
+
+.login-caret {
+    border-bottom: 4px solid rgba(0, 0, 0, 0);
+    border-left: 4px solid #5CB85C;
+    border-top: 4px solid rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    width: 0;
+}
+.sign-up{
+    margin-left: 0.7em;
+    margin-top:0.55em;
+}
+.dropdown-top-menu{
+    width: 34em;
+    background-color: #4C4C4C;
+    color: #555555;
+    padding: 20px;
+ }
+
+.dropdown-top-menu li a{
+    color: #555555;
+}
+.dropdown-third{
+    margin-left: 3em;
+}
+.dropdown-third ul li a{
+     color:#999999;
+ }
+.dropdown-third ul li{
+    line-height: 2.6em;
+}
+.dropdown-third ul li a:hover{
+    color:#ffffff;
+    text-decoration: none;
+}
+.dropdown-menu{
+    border: none;
+}
+.dropdown-menu .divider {
+    background-color: #555555;
+}
+.middle-divider {
+    background-color: #555555;
+    width: 1px;
+    height: 11em;
+    overflow: hidden;
+}
+.navbar-right .dropdown-menu {
+    left: auto;
+    right: -176px;
+}
+.section-part1{
+    padding-top:40px;
+    padding-bottom:40px;
+    background-color: #3BB878;
+    color: #FFFFFF;
+}
+.navbar{
+    margin-bottom:0;
+    border-bottom: none;
+}
+.row .part1-text{
+    font-size: 52px;
+    text-align: center;
+    line-height: 1.8em;
+}
+.row p.part1-text2{
+    text-align: center;
+    font-size: 1.6em;
+    line-height: 1.6em;
+}
+.part1-you{
+    font-size:2em;
+}
+.input-information{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.btn-blue.btn-border {
+    border-color: #24709C;
+    border-style: solid;
+    border-width: 0 0 2px;
+}
+.btn-blue {
+    background-color: #2D8EC6;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    transition: color 0.5s;
+}
+.btn-blue:hover{
+     background-color: #2E95CE ;
+}
+.section-part2{
+    background-color: #35A56B;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+.text-center{
+    text-align: center;
+}
+.part2-text2 a{
+    color:#ffffff;
+    text-decoration: underline;
+}
+.part2-text2 a:hover{
+    text-decoration: none;
+}
+.section-part3{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.part3-text1{
+    font-size: 2.5em;
+    color: #000000;
+    line-height: 1.5em;
+}
+.part3-text2{
+    color: #777777;
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+.part3-p1{
+    margin-top: 30px;
+}
+.caret-right {
+    border-bottom: 4px solid rgba(0, 0, 0, 0);
+    border-left: 4px solid #E74C3C;
+    border-top: 4px solid rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+.lean-more{
+    font-size: 26px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.text-right{
+    text-align: right;
+}
+.text-a:hover{
+    color: #555;
+    text-decoration: none;
+}
+.part4-p{
+    color: #777;
+    font-size: 18px;
+}
+.section-part4{
+    background-color: #EBEFF0;
+    color: #747474;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.part4-img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    filter:alpha(opacity=50);      /* IE */
+    -moz-opacity:0.5;              /* 老版Mozilla */
+    -khtml-opacity:0.5;            /* 老版Safari */
+    opacity: 0.5;
+}
+.part4-q{
+    background-color: #ffffff;
+    padding: 10px;
+}
+.bubble{
+    display: block;
+}
+q {
+    quotes: "“" "”" "‘" "’";
+}

@@ -1,0 +1,210 @@
+.accountBrowse-content {
+    background-color: #fff;
+    padding: 30px 40px;
+}
+.uploadImg {
+    border: 1px solid #ddd;
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+.brower-text1 {
+    font-size: 14px;
+    color: #666666;
+}
+.long-bar1 {
+    background: rgba(0, 0, 0, 0) url("../images/highUser.png") no-repeat scroll 0 2px;
+    color: #c96219;
+    font-size: 14px;
+    padding-left: 26px;
+    padding-top: 2px;
+}
+.long-bar2 {
+    background: rgba(0, 0, 0, 0) url("../images/middleUser.png") no-repeat scroll 0 2px;
+    color: #c96219;
+    font-size: 14px;
+    padding-left: 26px;
+    padding-top: 2px;
+}
+.long-bar3 {
+    background: rgba(0, 0, 0, 0) url("../images/lowUser.png") no-repeat scroll 0 2px;
+    color: #c96219;
+    font-size: 14px;
+    padding-left: 26px;
+    padding-top: 2px;
+}
+.out-bar {
+    border: 1px solid #F3A500;
+    height: 19px;
+    position: relative;
+    width: 120px;
+    margin-top: 4px;
+}
+.bar-00 {
+    background-color: #f3a500;
+    color: #fff;
+    font-size: 12px;
+    height: 19px;
+    position: absolute;
+    width: 60%;
+}
+.browse-sec1-part1 {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.browse-sec1-part1 h2 {
+    color: #4c4b4b;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.browse-zw-text {
+    margin-top: 3px;
+}
+.accountBrowse-content-section1 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 30px;
+}
+.accountBrowse-content-section2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.browse-sec2-00 {
+    background: #f8f8f8 url("../images/laba.png") no-repeat scroll 5px 8px;
+    padding: 6px 36px;
+}
+
+.brower-text2 {
+    font-size: 14px;
+    color: #FC0108;
+}
+.browse-sec2-00 a{
+    color: #0044FF;
+}
+.brower-sec3-part10 {
+    width: 45%;
+}
+.brower-sec3-part11 {
+    width: 51%;
+}
+.brower-pub {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    height: 140px;
+
+}
+.brower-sec3-part2 {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    margin-top: 30px;
+}
+.bs-part10-title {
+    background: #f8f8f8 url("../images/bro1.png") no-repeat scroll 8px 8px;
+    padding: 4px 46px;
+}
+.bs-part11-title {
+    background: #f8f8f8 url("../images/bro2.png") no-repeat scroll 8px 8px;
+    padding: 4px 46px;
+}
+.bs-part2-title {
+    background: #f8f8f8 none scroll;
+    padding: 4px 10px;
+}
+.brower-text3{
+    font-size: 17px;
+     color: #4c4b4b;
+}
+.brower-text4 {
+    font-size: 15px;
+    color: #39a1ea;
+}
+.brower-text5 {
+    font-size: 23px;
+    color: #4c4b4b;
+}
+.brower-text6 {
+    font-size: 15px;
+    color: #4c4b4b;
+}
+.brower-color {
+    color: #4c4b4b;
+}
+.brower-button a {
+    border: 1px solid #45A7EB;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    padding: 5px 20px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #45A7EB;
+}
+
+.bs-part10-body {
+    padding: 25px 20px 15px;
+}
+.brower-button {
+    margin-top: 12px;
+}
+.brower-line {
+    margin-top: 6px;
+    text-align: center;
+    width: 25px;
+}
+.bs-part2-body ul {
+    width: 100%;
+}
+.bs-part2-body ul>li>span{
+    display: block;
+}
+.bs-part2-body ul>li {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.brower-border {
+    border-right: 1px dashed #bbb;
+}
+.bs-part2-body {
+    background-color: #f9f9f9;
+    margin: 22px 0;
+    padding: 15px 0;
+}
+.brower-sec3-part3 {
+    margin-top: 30px;
+    background-color: #DFF8FF;
+    border: 1px solid #78A7B1;
+    padding: 10px;
+    color: #333;
+}
+.brower-sec3-part3>p {
+    margin-top: 5px;
+}
+
+.brower-bg-color {
+    background-color: #f8f8f8;
+    padding: 3px 38px 3px 0;
+}
+.account-sum {
+    background: rgba(0, 0, 0, 0) url("../images/icon0.png") no-repeat scroll 0 10px;
+    color: #39a1ea;
+    font-size: 15px;
+    height: 56px;
+    margin-top: 17px;
+    padding-left: 122px;
+    padding-top: 37px;
+    width: 233px;
+}
+
+.brower-text7 {
+    font-size: 22px;
+    color: #5e3b00;
+}
+.brower-text8 {
+    color: #5e3b00;
+}
+.browse-sec2-00>a:hover {
+    text-decoration: underline;
+}

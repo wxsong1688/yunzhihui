@@ -1,0 +1,101 @@
+.login-middle{
+    width: 100%;
+    background-color: #F3F3F3;
+
+}
+.login-middle-sec {
+    padding-bottom: 80px;
+    width: 1200px;
+}
+.login-middle-sec2 {
+    margin-top: 20px;
+    margin-left: 152px;
+}
+.login-middle-sec1 {
+    margin-left: 152px;
+}
+.login-text1 {
+    font-size: 15px;
+}
+.login-middle-sec21 {
+    margin-top: 24px;
+}
+.login-middle-sec22 input {
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    color: #888;
+    font-size: 14px;
+    margin-top: 24px;
+    padding: 10px;
+    position: relative;
+    width: 285px;
+    z-index: 4;
+}
+.mar-lef {
+    margin-left: 4px;
+}
+.login-middle-sec22 {
+    margin-left: 100px;
+    position: relative;
+}
+.pwd-inner {
+    color: #888888;
+    cursor: auto;
+    font-size: 14px;
+    left: 10px;
+    position: absolute;
+    top: 102px;
+    z-index: 3;
+}
+.yzm-b {
+    color: #006a92;
+    display: inline-block;
+    margin-left: 22px;
+    margin-top: 20px;
+}
+.login-yzm {
+    margin-top: 10px;
+}
+.login-btn {
+    margin-top: 24px;
+}
+.login-bb {
+    background-color: #83b02d;
+    border: medium none;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px 50px;
+}
+
+
+.auto-login-text2 {
+    color: #666;
+    display: block;
+    font-size: 12px;
+    margin-left: 33px;
+    margin-top: 14px;
+}
+.fop {
+    font-size: 12px;
+    color: #666;
+}
+.auto-login {
+    margin-left: 26px;
+    position: relative;
+}
+.regi {
+    font-size: 12px;
+    color: #20B8E5;
+}
+.auto-login > input {
+    margin-top: 12px;
+    width: 32px;
+    top: 4px;
+    position: absolute;
+}
+.fo-pwd {
+    margin-top: 20px;
+}

@@ -1,0 +1,99 @@
+
+.bank-izgs,.bank-icbc, .bank-ccb, .bank-abchina, .bank-psbc, .bank-bankcomm, .bank-cmbchina, .bank-boc, .bank-cebbank, .bank-ecitic, .bank-spdb, .bank-cmbc, .bank-cib, .bank-pingan, .bank-cgbchina, .bank-srcb, .bank-bankofshanghai, .bank-nbcb, .bank-hccb, .bank-bankofbeijing, .bank-bjrcb, .bank-fudian-bank, .bank-wzcb {
+    width: 142px;
+    height: 31px;
+    overflow: hidden;
+}
+.bank-izgs,.bank-icbc, .bank-ccb, .bank-abchina, .bank-psbc, .bank-bankcomm, .bank-cmbchina, .bank-boc, .bank-cebbank, .bank-ecitic, .bank-spdb, .bank-cmbc, .bank-cib, .bank-pingan, .bank-cgbchina, .bank-srcb, .bank-bankofshanghai, .bank-nbcb, .bank-hccb, .bank-bankofbeijing, .bank-bjrcb, .bank-fudian-bank, .bank-wzcb {
+    background:url("../images/zf.png") no-repeat;
+}
+/*工商银行*/
+.bank-izgs {
+    background-position: -150px 0;
+}
+/*建设银行*/
+.bank-ccb {
+    background-position: -300px 0;
+}
+/*农业银行*/
+.bank-abchina {
+    background-position: 0 -40px;
+}
+/*中国邮政*/
+.bank-psbc {
+    background-position: -150px -40px;
+}
+.zf-con00,.zf-con01{
+    width:660px;}
+/*交通银行*/
+.bank-bankcomm {
+    background-position: -300px -40px;
+}
+/*招商银行*/
+.bank-cmbchina {
+    background-position: 0 -80px;
+}
+/*中国银行*/
+.bank-boc {
+    background-position: -150px -80px;
+}
+/*光大银行*/
+.bank-cebbank {
+    background-position: -300px -80px;
+}
+/*中信银行*/
+.bank-ecitic {
+    background-position: 0 -120px;
+}
+/*浦发银行*/
+.bank-spdb {
+    background-position: -150px -120px;
+}
+/*民生银行*/
+.bank-cmbc {
+    background-position: -300px -120px;
+}
+/*兴业银行*/
+.bank-cib {
+    background-position: 0 -160px;
+}
+/*平安银行*/
+.bank-pingan {
+    background-position: -150px -160px;
+}
+/*广东发展银行*/
+.bank-cgbchina {
+    background-position: -300px -160px;
+}
+/*上海农商银行*/
+.bank-srcb {
+    background-position: 0 -200px;
+}
+/*上海银行*/
+.bank-bankofshanghai {
+    background-position: -150px -200px;
+}
+/*宁波银行*/
+.bank-nbcb {
+    background-position: -300px -200px;
+}
+/*杭州银行*/
+.bank-hccb {
+    background-position: 0 -240px;
+}
+/*北京银行*/
+.bank-bankofbeijing {
+    background-position: -150px -240px;
+}
+/*北京农商银行*/
+.bank-bjrcb {
+    background-position: -300px -240px;
+}
+/*富滇银行*/
+.bank-fudian-bank {
+    background-position: 0 -280px;
+}
+/*温州银行*/
+.bank-wzcb {
+    background-position: -150px -280px;
+}
